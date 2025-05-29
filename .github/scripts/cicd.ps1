@@ -230,7 +230,7 @@ foreach ($projectFile in $solutionProjectsObj) {
     #git push origin $currentBranch
 }
 
-exit
+
 
 # Deploy ------------------------------------
 Write-Host "===> Deploying channel: '$($channelRoot.ToLower())' | Local: $($isLocal.ToString()) | CI/CD: $($isCiCd.ToString()) =======================" -ForegroundColor Green
