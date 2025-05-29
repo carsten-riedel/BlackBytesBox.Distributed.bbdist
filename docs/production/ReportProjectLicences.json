@@ -1,0 +1,79 @@
+[
+  {
+    "PackageId": "Microsoft.Build",
+    "PackageVersion": "17.3.2",
+    "PackageProjectUrl": "http://go.microsoft.com/fwlink/?LinkId=624683",
+    "Copyright": "\u00A9 Microsoft Corporation. All rights reserved.",
+    "Authors": "Microsoft",
+    "License": "MIT",
+    "LicenseUrl": "https://licenses.nuget.org/MIT",
+    "LicenseInformationOrigin": 0
+  },
+  {
+    "PackageId": "Microsoft.Extensions.Hosting",
+    "PackageVersion": "9.0.5",
+    "PackageProjectUrl": "https://dot.net/",
+    "Copyright": "\u00A9 Microsoft Corporation. All rights reserved.",
+    "Authors": "Microsoft",
+    "License": "MIT",
+    "LicenseUrl": "https://licenses.nuget.org/MIT",
+    "LicenseInformationOrigin": 0
+  },
+  {
+    "PackageId": "Serilog",
+    "PackageVersion": "4.2.0",
+    "PackageProjectUrl": "https://serilog.net/",
+    "Copyright": "Copyright \u00A9 Serilog Contributors",
+    "Authors": "Serilog Contributors",
+    "License": "Apache-2.0",
+    "LicenseUrl": "https://licenses.nuget.org/Apache-2.0",
+    "LicenseInformationOrigin": 0
+  },
+  {
+    "PackageId": "Serilog.Extensions.Hosting",
+    "PackageVersion": "9.0.0",
+    "PackageProjectUrl": "https://github.com/serilog/serilog-extensions-hosting",
+    "Authors": "Microsoft,Serilog Contributors",
+    "License": "Apache-2.0",
+    "LicenseUrl": "https://licenses.nuget.org/Apache-2.0",
+    "LicenseInformationOrigin": 0
+  },
+  {
+    "PackageId": "Serilog.Sinks.Async",
+    "PackageVersion": "2.1.0",
+    "PackageProjectUrl": "https://serilog.net/",
+    "Authors": "Jezz Santos,Serilog Contributors",
+    "License": "Apache-2.0",
+    "LicenseUrl": "https://licenses.nuget.org/Apache-2.0",
+    "LicenseInformationOrigin": 0
+  },
+  {
+    "PackageId": "Serilog.Sinks.Console",
+    "PackageVersion": "6.0.0",
+    "PackageProjectUrl": "https://github.com/serilog/serilog-sinks-console",
+    "Authors": "Serilog Contributors",
+    "License": "Apache-2.0",
+    "LicenseUrl": "https://licenses.nuget.org/Apache-2.0",
+    "LicenseInformationOrigin": 0
+  },
+  {
+    "PackageId": "Spectre.Console",
+    "PackageVersion": "0.49.1",
+    "PackageProjectUrl": "https://github.com/spectreconsole/spectre.console",
+    "Copyright": "Patrik Svensson, Phil Scott, Nils Andresen, C\u00E9dric Luthi, Frank Ray",
+    "Authors": "Patrik Svensson, Phil Scott, Nils Andresen, C\u00E9dric Luthi, Frank Ray",
+    "License": "MIT",
+    "LicenseUrl": "https://licenses.nuget.org/MIT",
+    "LicenseInformationOrigin": 0
+  },
+  {
+    "PackageId": "Spectre.Console.Cli",
+    "PackageVersion": "0.49.1",
+    "PackageProjectUrl": "https://github.com/spectreconsole/spectre.console",
+    "Copyright": "Patrik Svensson, Phil Scott, Nils Andresen, C\u00E9dric Luthi, Frank Ray",
+    "Authors": "Patrik Svensson, Phil Scott, Nils Andresen, C\u00E9dric Luthi, Frank Ray",
+    "License": "MIT",
+    "LicenseUrl": "https://licenses.nuget.org/MIT",
+    "LicenseInformationOrigin": 0
+  }
+]
