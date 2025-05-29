@@ -17,7 +17,6 @@ if ([string]::IsNullOrEmpty($NUGET_GITHUB_PUSH) -or [string]::IsNullOrEmpty($NUG
     }
 }
 
-exit
 
 Install-Module -Name BlackBytesBox.Manifested.Initialize -Repository "PSGallery" -Force -AllowClobber
 Install-Module -Name BlackBytesBox.Manifested.Version -Repository "PSGallery" -Force -AllowClobber
@@ -46,7 +45,6 @@ else {
 Set-Location "$PSScriptRoot\.."
 Invoke-Exec -Executable "dotnet" -Arguments @("tool", "restore", "--verbosity", "diagnostic","--tool-manifest",[System.IO.Path]::Combine("$PSScriptRoot","dotnet-tools.json"))
 Set-Location "$PSScriptRoot"
-
 
 $currentBranch = Get-GitCurrentBranch
 $currentBranchRoot = Get-GitCurrentBranchRoot
@@ -93,8 +91,8 @@ $docsOutputFolderName = "docs"
 $outputRootArtifactsDirectory = New-DirectoryFromSegments -Paths @($topLevelDirectory, $artifactsOutputFolderName)
 $outputRootReportResultsDirectory = New-DirectoryFromSegments -Paths @($topLevelDirectory, $reportsOutputFolderName)
 $outputRootDocsResultsDirectory = New-DirectoryFromSegments -Paths @($topLevelDirectory, $docsOutputFolderName)
-$targetConfigAllowedLicenses = Join-Segments -Segments @($topLevelDirectory, ".config", "allowed-licenses.json")
-$targetConfigLicensesMappings = Join-Segments -Segments @($topLevelDirectory, ".config", "licenses-mapping.json")
+$targetConfigAllowedLicenses = Join-Segments -Segments @($topLevelDirectory, ".config", "nuget-license", "allowed-licenses.json")
+$targetConfigLicensesMappings = Join-Segments -Segments @($topLevelDirectory, ".config", "nuget-license", "licenses-mapping.json")
 
 
 if (-not $isCiCd) { Delete-FilesByPattern -Path "$outputRootArtifactsDirectory" -Pattern "*"  }
@@ -208,6 +206,7 @@ foreach ($projectFile in $solutionProjectsObj) {
     #git push origin $currentBranch
 }
 
+exit
 
 # Deploy ------------------------------------
 Write-Host "===> Deploying channel: '$($channelRoot.ToLower())' | Local: $($isLocal.ToString()) | CI/CD: $($isCiCd.ToString()) =======================" -ForegroundColor Green
