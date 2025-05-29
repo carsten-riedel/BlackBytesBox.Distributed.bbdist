@@ -59,8 +59,8 @@
 		<Owners>Carsten Riedel</Owners>
 		<PackageId>$(AssemblyName)</PackageId>
 		<PackageTags>dotnet;tool;BlackBytesBox;bbdist</PackageTags>
-		<PackageProjectUrl>https://github.com/carsten-riedel/BlackBytesBox.Distributed</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/carsten-riedel/BlackBytesBox.Distributed</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/carsten-riedel/BlackBytesBox.Distributed.bbdist</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/carsten-riedel/BlackBytesBox.Distributed.bbdist</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<Description>
 			<![CDATA[BlackBytesBox.Distributed is a multi-purpose command-line .NET tool, containing a suite of helper functionalities.]]>
@@ -93,7 +93,7 @@
 		<IncludeNativeLibrariesForSelfExtract>true</IncludeNativeLibrariesForSelfExtract>
 	</PropertyGroup>
 
-	<Target Name="PubloiishToolNameTo" AfterTargets="Publish" Condition="'$(PackAsTool)' == 'true' ">
+	<Target Name="PublishToolNameTo" AfterTargets="Publish" Condition="'$(PackAsTool)' == 'true' ">
 		<PropertyGroup>
 			<NewExeName>$(ToolCommandName).exe</NewExeName>
 		</PropertyGroup>
