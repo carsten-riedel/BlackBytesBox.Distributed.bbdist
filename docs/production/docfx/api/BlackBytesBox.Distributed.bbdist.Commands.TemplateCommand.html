@@ -5,10 +5,10 @@
   <head>
     <meta charset="utf-8">
       <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
-      <title>Class SpectreHostExtensions
+      <title>Class TemplateCommand
  | BlackBytesBox.Distributed.bbdist </title>
       <meta name="viewport" content="width=device-width">
-      <meta name="title" content="Class SpectreHostExtensions
+      <meta name="title" content="Class TemplateCommand
  | BlackBytesBox.Distributed.bbdist ">
     
       <link rel="shortcut icon" href="../favicon.ico">
@@ -114,8 +114,8 @@
                           <li class="">
                             <a href="BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.html" title="SlnCommand.Settings" class="">SlnCommand.Settings</a>
                           </li>
-                          <li class="">
-                            <a href="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.html" title="TemplateCommand" class="">TemplateCommand</a>
+                          <li class="active">
+                            <a href="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.html" title="TemplateCommand" class="active">TemplateCommand</a>
                           </li>
                           <li class="">
                             <a href="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html" title="TemplateCommand.Settings" class="">TemplateCommand.Settings</a>
@@ -139,8 +139,8 @@
                       <a href="BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.html" title="BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions" class="">BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions</a>
 
                         <ul class="nav level2">
-                          <li class="active">
-                            <a href="BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.html" title="SpectreHostExtensions" class="active">SpectreHostExtensions</a>
+                          <li class="">
+                            <a href="BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.html" title="SpectreHostExtensions" class="">SpectreHostExtensions</a>
                           </li>
                         </ul>
                     </li>
@@ -248,22 +248,37 @@
         </div>
         <div class="article row grid-right">
           <div class="col-md-10">
-            <article class="content wrap" id="_content" data-uid="BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions">
+            <article class="content wrap" id="_content" data-uid="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand">
 
 
 
-  <h1 id="BlackBytesBox_Distributed_bbdist_Extensions_SpectreHostExtensions_SpectreHostExtensions" data-uid="BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions" class="text-break">Class SpectreHostExtensions
+  <h1 id="BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand" data-uid="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand" class="text-break">Class TemplateCommand
 </h1>
-  <div class="markdown level0 summary"><p>Provides extension methods to register Spectre.CommandApp within the Generic Host.</p>
+  <div class="markdown level0 summary"><p>A concrete abortable command that demonstrates asynchronous, cancellation-aware work.
+After 5 seconds it returns success (0), and if aborted it returns 99.</p>
 </div>
   <div class="markdown level0 conceptual"></div>
   <div class="inheritance">
     <h5>Inheritance</h5>
     <div class="level0"><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object">object</a></div>
-    <div class="level1"><span class="xref">SpectreHostExtensions</span></div>
+    <div class="level1"><span class="xref">Command</span>&lt;<a class="xref" href="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.html">TemplateCommand</a>.<a class="xref" href="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html">Settings</a>&gt;</div>
+    <div class="level2"><a class="xref" href="BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand-1.html">CancellableCommand</a>&lt;<a class="xref" href="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.html">TemplateCommand</a>.<a class="xref" href="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html">Settings</a>&gt;</div>
+    <div class="level3"><span class="xref">TemplateCommand</span></div>
+  </div>
+  <div class="implements">
+    <h5>Implements</h5>
+    <div><span class="xref">ICommand</span>&lt;<a class="xref" href="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.html">TemplateCommand</a>.<a class="xref" href="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html">Settings</a>&gt;</div>
+    <div><span class="xref">ICommandLimiter</span>&lt;<a class="xref" href="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.html">TemplateCommand</a>.<a class="xref" href="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html">Settings</a>&gt;</div>
+    <div><span class="xref">ICommand</span></div>
   </div>
   <div class="inheritedMembers">
     <h5>Inherited Members</h5>
+    <div>
+      <a class="xref" href="BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand-1.html#BlackBytesBox_Distributed_bbdist_Spectre_CancellableCommand_1_Execute_Spectre_Console_Cli_CommandContext__0_">CancellableCommand&lt;TemplateCommand.Settings&gt;.Execute(CommandContext, TemplateCommand.Settings)</a>
+    </div>
+    <div>
+      <span class="xref">Command&lt;TemplateCommand.Settings&gt;.Validate(CommandContext, TemplateCommand.Settings)</span>
+    </div>
     <div>
       <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.equals#system-object-equals(system-object)">object.Equals(object)</a>
     </div>
@@ -286,30 +301,28 @@
       <a class="xref" href="https://learn.microsoft.com/dotnet/api/system.object.tostring">object.ToString()</a>
     </div>
   </div>
-  <h6><strong>Namespace</strong>: <a class="xref" href="BlackBytesBox.html">BlackBytesBox</a>.<a class="xref" href="BlackBytesBox.Distributed.html">Distributed</a>.<a class="xref" href="BlackBytesBox.Distributed.bbdist.html">bbdist</a>.<a class="xref" href="BlackBytesBox.Distributed.bbdist.Extensions.html">Extensions</a>.<a class="xref" href="BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.html">SpectreHostExtensions</a></h6>
+  <h6><strong>Namespace</strong>: <a class="xref" href="BlackBytesBox.html">BlackBytesBox</a>.<a class="xref" href="BlackBytesBox.Distributed.html">Distributed</a>.<a class="xref" href="BlackBytesBox.Distributed.bbdist.html">bbdist</a>.<a class="xref" href="BlackBytesBox.Distributed.bbdist.Commands.html">Commands</a></h6>
   <h6><strong>Assembly</strong>: BlackBytesBox.Distributed.bbdist.dll</h6>
-  <h5 id="BlackBytesBox_Distributed_bbdist_Extensions_SpectreHostExtensions_SpectreHostExtensions_syntax">Syntax</h5>
+  <h5 id="BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_syntax">Syntax</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static class SpectreHostExtensions</code></pre>
+    <pre><code class="lang-csharp hljs">public class TemplateCommand : CancellableCommand&lt;TemplateCommand.Settings&gt;, ICommand&lt;TemplateCommand.Settings&gt;, ICommandLimiter&lt;TemplateCommand.Settings&gt;, ICommand</code></pre>
   </div>
-  <h3 id="methods">Methods
+  <h3 id="constructors">Constructors
 </h3>
   <span class="small pull-right mobile-hide">
     <span class="divider">|</span>
-    <a href="https://github.com/carsten-riedel/BlackBytesBox.Distributed.bbdist/new/main/apiSpec/new?filename=BlackBytesBox_Distributed_bbdist_Extensions_SpectreHostExtensions_SpectreHostExtensions_AddCommandAppHostedService_Microsoft_Extensions_Hosting_IHostBuilder_System_Action_Spectre_Console_Cli_IConfigurator__System_String___.md&amp;value=---%0Auid%3A%20BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.AddCommandAppHostedService(Microsoft.Extensions.Hosting.IHostBuilder%2CSystem.Action%7BSpectre.Console.Cli.IConfigurator%7D%2CSystem.String%5B%5D)%0Asummary%3A%20&#39;*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax&#39;%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Edit this page</a>
+    <a href="https://github.com/carsten-riedel/BlackBytesBox.Distributed.bbdist/new/main/apiSpec/new?filename=BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand__ctor_Microsoft_Extensions_Logging_ILogger_BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand__.md&amp;value=---%0Auid%3A%20BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.%23ctor(Microsoft.Extensions.Logging.ILogger%7BBlackBytesBox.Distributed.bbdist.Commands.TemplateCommand%7D)%0Asummary%3A%20&#39;*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax&#39;%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Edit this page</a>
   </span>
   <span class="small pull-right mobile-hide">
-    <a href="https://github.com/carsten-riedel/BlackBytesBox.Distributed.bbdist/blob/main/source/BlackBytesBox.Distributed.bbdist/ProjectItems/BlackBytesBox.Distributed.bbdist/Extensions/SpectreHostExtensions/SpectreHostExtensions.cs/#L21">View Source</a>
+    <a href="https://github.com/carsten-riedel/BlackBytesBox.Distributed.bbdist/blob/main/source/BlackBytesBox.Distributed.bbdist/ProjectItems/BlackBytesBox.Distributed.bbdist/Commands/_TemplateCommand.cs/#L77">View Source</a>
   </span>
-  <a id="BlackBytesBox_Distributed_bbdist_Extensions_SpectreHostExtensions_SpectreHostExtensions_AddCommandAppHostedService_" data-uid="BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.AddCommandAppHostedService*"></a>
-  <h4 id="BlackBytesBox_Distributed_bbdist_Extensions_SpectreHostExtensions_SpectreHostExtensions_AddCommandAppHostedService_Microsoft_Extensions_Hosting_IHostBuilder_System_Action_Spectre_Console_Cli_IConfigurator__System_String___" data-uid="BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.AddCommandAppHostedService(Microsoft.Extensions.Hosting.IHostBuilder,System.Action{Spectre.Console.Cli.IConfigurator},System.String[])">AddCommandAppHostedService(IHostBuilder, Action&lt;IConfigurator&gt;, string[])</h4>
-  <div class="markdown level1 summary"><p>Configures and registers the Spectre.CommandApp as well as the hosted service that runs it asynchronously.
-Also registers the shared ExitCodeHolder.</p>
-</div>
+  <a id="BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand__ctor_" data-uid="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.#ctor*"></a>
+  <h4 id="BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand__ctor_Microsoft_Extensions_Logging_ILogger_BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand__" data-uid="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand})">TemplateCommand(ILogger&lt;TemplateCommand&gt;)</h4>
+  <div class="markdown level1 summary"></div>
   <div class="markdown level1 conceptual"></div>
   <h5 class="declaration">Declaration</h5>
   <div class="codewrapper">
-    <pre><code class="lang-csharp hljs">public static IHostBuilder AddCommandAppHostedService(this IHostBuilder builder, Action&lt;IConfigurator&gt; configure, string[] args)</code></pre>
+    <pre><code class="lang-csharp hljs">public TemplateCommand(ILogger&lt;TemplateCommand&gt; logger)</code></pre>
   </div>
   <h5 class="parameters">Parameters</h5>
   <table class="table table-bordered table-condensed">
@@ -322,18 +335,52 @@ Also registers the shared ExitCodeHolder.</p>
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/microsoft.extensions.hosting.ihostbuilder">IHostBuilder</a></td>
-        <td><span class="parametername">builder</span></td>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/microsoft.extensions.logging.ilogger-1">ILogger</a>&lt;<a class="xref" href="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.html">TemplateCommand</a>&gt;</td>
+        <td><span class="parametername">logger</span></td>
+        <td></td>
+      </tr>
+    </tbody>
+  </table>
+  <h3 id="methods">Methods
+</h3>
+  <span class="small pull-right mobile-hide">
+    <span class="divider">|</span>
+    <a href="https://github.com/carsten-riedel/BlackBytesBox.Distributed.bbdist/new/main/apiSpec/new?filename=BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_ExecuteAsync_Spectre_Console_Cli_CommandContext_BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_Settings_System_Threading_CancellationToken_.md&amp;value=---%0Auid%3A%20BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext%2CBlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings%2CSystem.Threading.CancellationToken)%0Asummary%3A%20&#39;*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax&#39;%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A">Edit this page</a>
+  </span>
+  <span class="small pull-right mobile-hide">
+    <a href="https://github.com/carsten-riedel/BlackBytesBox.Distributed.bbdist/blob/main/source/BlackBytesBox.Distributed.bbdist/ProjectItems/BlackBytesBox.Distributed.bbdist/Commands/_TemplateCommand.cs/#L82">View Source</a>
+  </span>
+  <a id="BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_ExecuteAsync_" data-uid="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.ExecuteAsync*"></a>
+  <h4 id="BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_ExecuteAsync_Spectre_Console_Cli_CommandContext_BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_Settings_System_Threading_CancellationToken_" data-uid="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings,System.Threading.CancellationToken)">ExecuteAsync(CommandContext, Settings, CancellationToken)</h4>
+  <div class="markdown level1 summary"></div>
+  <div class="markdown level1 conceptual"></div>
+  <h5 class="declaration">Declaration</h5>
+  <div class="codewrapper">
+    <pre><code class="lang-csharp hljs">public override Task&lt;int&gt; ExecuteAsync(CommandContext context, TemplateCommand.Settings settings, CancellationToken cancellationToken)</code></pre>
+  </div>
+  <h5 class="parameters">Parameters</h5>
+  <table class="table table-bordered table-condensed">
+    <thead>
+      <tr>
+        <th>Type</th>
+        <th>Name</th>
+        <th>Description</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><span class="xref">CommandContext</span></td>
+        <td><span class="parametername">context</span></td>
         <td></td>
       </tr>
       <tr>
-        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.action-1">Action</a>&lt;<span class="xref">IConfigurator</span>&gt;</td>
-        <td><span class="parametername">configure</span></td>
+        <td><a class="xref" href="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.html">TemplateCommand</a>.<a class="xref" href="BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html">Settings</a></td>
+        <td><span class="parametername">settings</span></td>
         <td></td>
       </tr>
       <tr>
-        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.string">string</a>[]</td>
-        <td><span class="parametername">args</span></td>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.threading.cancellationtoken">CancellationToken</a></td>
+        <td><span class="parametername">cancellationToken</span></td>
         <td></td>
       </tr>
     </tbody>
@@ -348,11 +395,23 @@ Also registers the shared ExitCodeHolder.</p>
     </thead>
     <tbody>
       <tr>
-        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/microsoft.extensions.hosting.ihostbuilder">IHostBuilder</a></td>
+        <td><a class="xref" href="https://learn.microsoft.com/dotnet/api/system.threading.tasks.task-1">Task</a>&lt;<a class="xref" href="https://learn.microsoft.com/dotnet/api/system.int32">int</a>&gt;</td>
         <td></td>
       </tr>
     </tbody>
   </table>
+  <h5 class="overrides">Overrides</h5>
+  <div><a class="xref" href="BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand-1.html#BlackBytesBox_Distributed_bbdist_Spectre_CancellableCommand_1_ExecuteAsync_Spectre_Console_Cli_CommandContext__0_System_Threading_CancellationToken_">CancellableCommand&lt;TemplateCommand.Settings&gt;.ExecuteAsync(CommandContext, TemplateCommand.Settings, CancellationToken)</a></div>
+  <h3 id="implements">Implements</h3>
+  <div>
+      <span class="xref">Spectre.Console.Cli.ICommand&lt;TSettings&gt;</span>
+  </div>
+  <div>
+      <span class="xref">Spectre.Console.Cli.ICommandLimiter&lt;TSettings&gt;</span>
+  </div>
+  <div>
+      <span class="xref">Spectre.Console.Cli.ICommand</span>
+  </div>
 
 </article>
           </div>
@@ -362,10 +421,10 @@ Also registers the shared ExitCodeHolder.</p>
               <div class="contribution">
                 <ul class="nav">
                   <li>
-                    <a href="https://github.com/carsten-riedel/BlackBytesBox.Distributed.bbdist/new/main/apiSpec/new?filename=BlackBytesBox_Distributed_bbdist_Extensions_SpectreHostExtensions_SpectreHostExtensions.md&amp;value=---%0Auid%3A%20BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions%0Asummary%3A%20&#39;*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax&#39;%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Edit this page</a>
+                    <a href="https://github.com/carsten-riedel/BlackBytesBox.Distributed.bbdist/new/main/apiSpec/new?filename=BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand.md&amp;value=---%0Auid%3A%20BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand%0Asummary%3A%20&#39;*You%20can%20override%20summary%20for%20the%20API%20here%20using%20*MARKDOWN*%20syntax&#39;%0A---%0A%0A*Please%20type%20below%20more%20information%20about%20this%20API%3A*%0A%0A" class="contribution-link">Edit this page</a>
                   </li>
                   <li>
-                    <a href="https://github.com/carsten-riedel/BlackBytesBox.Distributed.bbdist/blob/main/source/BlackBytesBox.Distributed.bbdist/ProjectItems/BlackBytesBox.Distributed.bbdist/Extensions/SpectreHostExtensions/SpectreHostExtensions.cs/#L15" class="contribution-link">View Source</a>
+                    <a href="https://github.com/carsten-riedel/BlackBytesBox.Distributed.bbdist/blob/main/source/BlackBytesBox.Distributed.bbdist/ProjectItems/BlackBytesBox.Distributed.bbdist/Commands/_TemplateCommand.cs/#L24" class="contribution-link">View Source</a>
                   </li>
                 </ul>
               </div>
