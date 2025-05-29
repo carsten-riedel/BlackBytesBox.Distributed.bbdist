@@ -404,4 +404,6 @@ FodyWeavers.xsd
 *[Ss][Ee][Cc][Rr][Ee][Tt]*
 /artifacts/**/*
 /reports/**/*
+.config/docfx/build/docfx_local.json
+.config/docfx/build/index.md
 .config/docfx/build/api/**/*

@@ -203,13 +203,20 @@ foreach ($projectFile in $solutionProjectsObj) {
 
     if ($isPackable -eq $true)
     {
-        $replacements = @{
+        $docFxReplacementsJson = @{
             "sourceCodeDirectory" = "$($projectFile.DirectoryName)"
             "outputDirectory"     = "$outputReportDirectory\docfx"
             "projfilebasename"     = "$($projectFile.BaseName)"
         }
-        Replace-FilePlaceholders -InputFile "$topLevelDirectory/.config/docfx/build/docfx_local_template.json" -OutputFile "$topLevelDirectory/.config/docfx/build/docfx_local.json" -Replacements $replacements
-        dotnet docfx "$topLevelDirectory/.config/docfx/build/docfx_local.json"
+
+        $docFxReplacementsIndexMd = @{
+            "projfilebasename"     = "$($projectFile.BaseName)"
+        }
+
+        Replace-FilePlaceholders -InputFile "$topLevelDirectory/.config/docfx/build/docfx_local_template.json" -OutputFile "$topLevelDirectory/.config/docfx/build/docfx_local.json" -Replacements $docFxReplacementsJson
+        Replace-FilePlaceholders -InputFile "$topLevelDirectory/.config/docfx/build/index_template.md" -OutputFile "$topLevelDirectory/.config/docfx/build/index.md" -Replacements $docFxReplacementsIndexMd
+
+        #dotnet docfx "$topLevelDirectory/.config/docfx/build/docfx_local.json"
         Invoke-Exec -Executable "dotnet" -Arguments @("docfx", "$topLevelDirectory/.config/docfx/build/docfx_local.json") -CaptureOutput $false
     }
 
