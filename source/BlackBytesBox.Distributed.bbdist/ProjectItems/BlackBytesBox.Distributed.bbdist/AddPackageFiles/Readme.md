@@ -1,6 +1,6 @@
-# BlackBytesBox.Distributed
+# BlackBytesBox.Distributed.bbdist
 
-BlackBytesBox.Distributed is a multi-purpose command-line .NET tool containing a suite of helper functionalities designed for application development, CI/CD processes, and NuGet package management.
+BlackBytesBox.Distributed.bbdist is a multi-purpose command-line .NET tool containing a suite of helper functionalities designed for application development, CI/CD processes, and NuGet package management.
 
 ## Prerequisites
 - **.NET SDK:** Ensure you have the .NET SDK installed on your machine. If not, download and install it from [the official .NET website](https://dotnet.microsoft.com/download).
@@ -9,7 +9,7 @@ BlackBytesBox.Distributed is a multi-purpose command-line .NET tool containing a
 
 ### Install/Update/Reinstall as a Global Tool
 ```
-dotnet tool install -g BlackBytesBox.Distributed
+dotnet tool install -g BlackBytesBox.Distributed.bbdist
 ```
 
 #### Usage (Global Installation)
@@ -21,7 +21,7 @@ bbdist dump envars
 
 ### Install/Update/Reinstall as a Local Tool
 ```
-dotnet tool install BlackBytesBox.Distributed
+dotnet tool install BlackBytesBox.Distributed.bbdist
 ```
 
 #### Usage (Local Installation)
@@ -52,21 +52,3 @@ bbdist csproj -f "C:\Projects\MyProject.csproj" --property IsPublishable --eleme
 - **--elementscope InnerElement** specifies the element scope (the default is InnerElement).
 - **-m Warning** sets the minimum log level to Warning.
 - **-i** enables the ignore errors flag.
-
-## General BlackBytesBox Naming Conventions
-
----
-
-- **BlackBytesBox.Manifested** (PowerShell module)
-- **BlackBytesBox.Unified** (NET Standard library)
-- **BlackBytesBox.Distributed** (Dotnet tool)
-- **BlackBytesBox.Composed** (NET library)
-- **BlackBytesBox.Dosed** (NET-Windows library)
-- **BlackBytesBox.Routed** (ASP.NET library)
-- **BlackBytesBox.Sliced** (ASP.NET Razor library)
-- **BlackBytesBox.Depreacted** (old .NET Framework 4.0 library)
-- **BlackBytesBox.Seeded** (template project)
-- **BlackBytesBox.[Adjective].[Qualifier]** (for further clarity when needed)
-
-- **BlackBytesBox.Manifested.Base** (PowerShell module)
-- **BlackBytesBox.Distributed.Core** (Dotnet tool)

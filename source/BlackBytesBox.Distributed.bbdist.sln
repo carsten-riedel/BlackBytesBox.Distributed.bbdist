@@ -9,6 +9,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionItems", "SolutionIt
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackBytesBox.Distributed.bbdist", "BlackBytesBox.Distributed.bbdist\ProjectItems\BlackBytesBox.Distributed.bbdist\BlackBytesBox.Distributed.bbdist.csproj", "{280A9C64-0042-C9E6-4EF6-8421941D4D1E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlackBytesBox.Distributed.bbdist.Tests", "BlackBytesBox.Distributed.bbdist\ProjectItems\BlackBytesBox.Distributed.bbdist.Tests\BlackBytesBox.Distributed.bbdist.Tests.csproj", "{54CDBE8A-5ED1-A62B-E4AF-05D19763B586}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -19,12 +21,17 @@ Global
 		{280A9C64-0042-C9E6-4EF6-8421941D4D1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{280A9C64-0042-C9E6-4EF6-8421941D4D1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{280A9C64-0042-C9E6-4EF6-8421941D4D1E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54CDBE8A-5ED1-A62B-E4AF-05D19763B586}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CDBE8A-5ED1-A62B-E4AF-05D19763B586}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CDBE8A-5ED1-A62B-E4AF-05D19763B586}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CDBE8A-5ED1-A62B-E4AF-05D19763B586}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{280A9C64-0042-C9E6-4EF6-8421941D4D1E} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
+		{54CDBE8A-5ED1-A62B-E4AF-05D19763B586} = {02EA681E-C7D8-13C7-8484-4AC65E1B71E8}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {3932E048-20E7-4BDA-94F7-95B865BA8A2F}

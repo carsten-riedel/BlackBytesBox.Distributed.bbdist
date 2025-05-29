@@ -68,3 +68,5 @@
 # Mark CI/CD scripts as generated so they don't affect language stats
 .github/**/* linguist-vendored
 .github/** linguist-vendored
+.config/**/* linguist-vendored
+.config/** linguist-vendored
