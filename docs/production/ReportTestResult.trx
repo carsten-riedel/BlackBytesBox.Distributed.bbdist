@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestRun id="ece5076a-a328-4461-867a-2341b0188f2c" name="runneradmin@fv-az663-305 2025-05-29 17:58:37" runUser="fv-az663-305\runneradmin" xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <Times creation="2025-05-29T17:58:37.2828206+00:00" queuing="2025-05-29T17:58:37.2828208+00:00" start="2025-05-29T17:58:21.3661918+00:00" finish="2025-05-29T17:58:37.2885682+00:00" />
+  <TestSettings name="default" id="fc41d47f-37cc-4213-b4ec-4b119e2ed672">
+    <Deployment runDeploymentRoot="runneradmin_fv-az663-305_2025-05-29_17_58_37" />
+  </TestSettings>
+  <Results>
+    <UnitTestResult executionId="3cff0954-5e84-425d-92f7-42c320349bf1" testId="d9d63901-8bcc-d786-27c6-2227bef766c5" testName="TestOsVersionServiceIntegration (100)" computerName="fv-az663-305" duration="00:00:00.0132646" startTime="2025-05-29T17:58:36.7759034+00:00" endTime="2025-05-29T17:58:37.1603540+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="3cff0954-5e84-425d-92f7-42c320349bf1">
+      <Output>
+        <StdOut>Microsoft Windows 10.0.20348</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="60d634e5-bf3e-428d-835e-a8d71dbe013c" testId="99ac644f-f15f-7aab-97ed-bdd1b1597d0f" testName="TestOsVersionServiceIntegration (200)" computerName="fv-az663-305" duration="00:00:00.0132624" startTime="2025-05-29T17:58:36.7758771+00:00" endTime="2025-05-29T17:58:37.1603563+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="60d634e5-bf3e-428d-835e-a8d71dbe013c">
+      <Output>
+        <StdOut>Microsoft Windows 10.0.20348</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="65f2aab1-1697-4d89-948d-81311314ebd1" testId="22bfdc5d-0a92-811f-9df7-29a921d16c2e" testName="Versioning (100)" computerName="fv-az663-305" duration="00:00:00.0055859" startTime="2025-05-29T17:58:37.1689905+00:00" endTime="2025-05-29T17:58:37.1747542+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="65f2aab1-1697-4d89-948d-81311314ebd1">
+      <Output>
+        <StdOut>20250-62100   2/16/2025 12:00:00 AM&#xD;
+20250-62156   2/16/2025 1:00:00 AM&#xD;
+20250-62212   2/16/2025 2:00:00 AM&#xD;
+20250-62268   2/16/2025 3:00:00 AM&#xD;
+20250-62325   2/16/2025 4:00:00 AM&#xD;
+20250-62381   2/16/2025 5:00:00 AM&#xD;
+20250-62437   2/16/2025 6:00:00 AM&#xD;
+20250-62493   2/16/2025 7:00:00 AM&#xD;
+20250-62550   2/16/2025 8:00:00 AM&#xD;
+20250-62606   2/16/2025 9:00:00 AM&#xD;
+20250-62662   2/16/2025 10:00:00 AM&#xD;
+20250-62718   2/16/2025 11:00:00 AM&#xD;
+20250-62775   2/16/2025 12:00:00 PM&#xD;
+20250-62831   2/16/2025 1:00:00 PM&#xD;
+20250-62887   2/16/2025 2:00:00 PM&#xD;
+20250-62943   2/16/2025 3:00:00 PM&#xD;
+20250-63000   2/16/2025 4:00:00 PM&#xD;
+20250-63056   2/16/2025 5:00:00 PM&#xD;
+20250-63112   2/16/2025 6:00:00 PM&#xD;
+20250-63168   2/16/2025 7:00:00 PM&#xD;
+20250-63225   2/16/2025 8:00:00 PM&#xD;
+20250-63281   2/16/2025 9:00:00 PM&#xD;
+20250-63337   2/16/2025 10:00:00 PM&#xD;
+20250-63393   2/16/2025 11:00:00 PM</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="593f4829-520f-4733-9314-074b5e7924c6" testId="7c29a437-1a80-dbfb-d3c8-176325bf7082" testName="FooTest (100)" computerName="fv-az663-305" duration="00:00:00.0238785" startTime="2025-05-29T17:58:37.1689912+00:00" endTime="2025-05-29T17:58:37.2055862+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="593f4829-520f-4733-9314-074b5e7924c6">
+      <Output>
+        <StdOut>SSE  : True&#xD;
+SSE2 : True&#xD;
+SSE3 : True&#xD;
+SSSE3: True&#xD;
+SSE4.1: True&#xD;
+SSE4.2: True&#xD;
+AES     : True&#xD;
+PCLMULQDQ: True&#xD;
+AVX  : True&#xD;
+AVX2 : True&#xD;
+FMA  : True</StdOut>
+      </Output>
+    </UnitTestResult>
+    <UnitTestResult executionId="e42f216b-ec38-4e63-a4cc-752207330c8e" testId="b2b79731-bdad-3c6b-c048-40ebe23479cf" testName="TestOsVersionServiceIntegration (500)" computerName="fv-az663-305" duration="00:00:00.0132622" startTime="2025-05-29T17:58:36.7758462+00:00" endTime="2025-05-29T17:58:37.1603563+00:00" testType="13cdc9d9-ddb5-4fa4-a97d-d965ccfc6d4b" outcome="Passed" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" relativeResultsDirectory="e42f216b-ec38-4e63-a4cc-752207330c8e">
+      <Output>
+        <StdOut>Microsoft Windows 10.0.20348</StdOut>
+      </Output>
+    </UnitTestResult>
+  </Results>
+  <TestDefinitions>
+    <UnitTest name="Versioning (100)" storage="d:\a\blackbytesbox.distributed.bbdist\blackbytesbox.distributed.bbdist\source\blackbytesbox.distributed.bbdist\projectitems\blackbytesbox.distributed.bbdist.tests\bin\release\net6.0\blackbytesbox.distributed.bbdist.tests.dll" id="22bfdc5d-0a92-811f-9df7-29a921d16c2e">
+      <Execution id="65f2aab1-1697-4d89-948d-81311314ebd1" />
+      <TestMethod codeBase="D:\a\BlackBytesBox.Distributed.bbdist\BlackBytesBox.Distributed.bbdist\source\BlackBytesBox.Distributed.bbdist\ProjectItems\BlackBytesBox.Distributed.bbdist.Tests\bin\Release\net6.0\BlackBytesBox.Distributed.bbdist.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BlackBytesBox.Distributed.bbdist.Tests.OsVersionServiceTests" name="Versioning" />
+    </UnitTest>
+    <UnitTest name="TestOsVersionServiceIntegration (100)" storage="d:\a\blackbytesbox.distributed.bbdist\blackbytesbox.distributed.bbdist\source\blackbytesbox.distributed.bbdist\projectitems\blackbytesbox.distributed.bbdist.tests\bin\release\net6.0\blackbytesbox.distributed.bbdist.tests.dll" id="d9d63901-8bcc-d786-27c6-2227bef766c5">
+      <Execution id="3cff0954-5e84-425d-92f7-42c320349bf1" />
+      <TestMethod codeBase="D:\a\BlackBytesBox.Distributed.bbdist\BlackBytesBox.Distributed.bbdist\source\BlackBytesBox.Distributed.bbdist\ProjectItems\BlackBytesBox.Distributed.bbdist.Tests\bin\Release\net6.0\BlackBytesBox.Distributed.bbdist.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BlackBytesBox.Distributed.bbdist.Tests.OsVersionServiceTests" name="TestOsVersionServiceIntegration" />
+    </UnitTest>
+    <UnitTest name="FooTest (100)" storage="d:\a\blackbytesbox.distributed.bbdist\blackbytesbox.distributed.bbdist\source\blackbytesbox.distributed.bbdist\projectitems\blackbytesbox.distributed.bbdist.tests\bin\release\net6.0\blackbytesbox.distributed.bbdist.tests.dll" id="7c29a437-1a80-dbfb-d3c8-176325bf7082">
+      <Execution id="593f4829-520f-4733-9314-074b5e7924c6" />
+      <TestMethod codeBase="D:\a\BlackBytesBox.Distributed.bbdist\BlackBytesBox.Distributed.bbdist\source\BlackBytesBox.Distributed.bbdist\ProjectItems\BlackBytesBox.Distributed.bbdist.Tests\bin\Release\net6.0\BlackBytesBox.Distributed.bbdist.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BlackBytesBox.Distributed.bbdist.Tests.OsVersionServiceTests" name="FooTest" />
+    </UnitTest>
+    <UnitTest name="TestOsVersionServiceIntegration (200)" storage="d:\a\blackbytesbox.distributed.bbdist\blackbytesbox.distributed.bbdist\source\blackbytesbox.distributed.bbdist\projectitems\blackbytesbox.distributed.bbdist.tests\bin\release\net6.0\blackbytesbox.distributed.bbdist.tests.dll" id="99ac644f-f15f-7aab-97ed-bdd1b1597d0f">
+      <Execution id="60d634e5-bf3e-428d-835e-a8d71dbe013c" />
+      <TestMethod codeBase="D:\a\BlackBytesBox.Distributed.bbdist\BlackBytesBox.Distributed.bbdist\source\BlackBytesBox.Distributed.bbdist\ProjectItems\BlackBytesBox.Distributed.bbdist.Tests\bin\Release\net6.0\BlackBytesBox.Distributed.bbdist.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BlackBytesBox.Distributed.bbdist.Tests.OsVersionServiceTests" name="TestOsVersionServiceIntegration" />
+    </UnitTest>
+    <UnitTest name="TestOsVersionServiceIntegration (500)" storage="d:\a\blackbytesbox.distributed.bbdist\blackbytesbox.distributed.bbdist\source\blackbytesbox.distributed.bbdist\projectitems\blackbytesbox.distributed.bbdist.tests\bin\release\net6.0\blackbytesbox.distributed.bbdist.tests.dll" id="b2b79731-bdad-3c6b-c048-40ebe23479cf">
+      <Execution id="e42f216b-ec38-4e63-a4cc-752207330c8e" />
+      <TestMethod codeBase="D:\a\BlackBytesBox.Distributed.bbdist\BlackBytesBox.Distributed.bbdist\source\BlackBytesBox.Distributed.bbdist\ProjectItems\BlackBytesBox.Distributed.bbdist.Tests\bin\Release\net6.0\BlackBytesBox.Distributed.bbdist.Tests.dll" adapterTypeName="executor://mstestadapter/v2" className="BlackBytesBox.Distributed.bbdist.Tests.OsVersionServiceTests" name="TestOsVersionServiceIntegration" />
+    </UnitTest>
+  </TestDefinitions>
+  <TestEntries>
+    <TestEntry testId="d9d63901-8bcc-d786-27c6-2227bef766c5" executionId="3cff0954-5e84-425d-92f7-42c320349bf1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="99ac644f-f15f-7aab-97ed-bdd1b1597d0f" executionId="60d634e5-bf3e-428d-835e-a8d71dbe013c" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="22bfdc5d-0a92-811f-9df7-29a921d16c2e" executionId="65f2aab1-1697-4d89-948d-81311314ebd1" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="7c29a437-1a80-dbfb-d3c8-176325bf7082" executionId="593f4829-520f-4733-9314-074b5e7924c6" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestEntry testId="b2b79731-bdad-3c6b-c048-40ebe23479cf" executionId="e42f216b-ec38-4e63-a4cc-752207330c8e" testListId="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+  </TestEntries>
+  <TestLists>
+    <TestList name="Results Not in a List" id="8c84fa94-04c1-424b-9868-57a2d4851a1d" />
+    <TestList name="All Loaded Results" id="19431567-8539-422a-85d7-44ee4e166bda" />
+  </TestLists>
+  <ResultSummary outcome="Completed">
+    <Counters total="5" executed="5" passed="5" failed="0" error="0" timeout="0" aborted="0" inconclusive="0" passedButRunAborted="0" notRunnable="0" notExecuted="0" disconnected="0" warning="0" completed="0" inProgress="0" pending="0" />
+    <Output>
+      <StdOut>Test Parallelization enabled for D:\a\BlackBytesBox.Distributed.bbdist\BlackBytesBox.Distributed.bbdist\source\BlackBytesBox.Distributed.bbdist\ProjectItems\BlackBytesBox.Distributed.bbdist.Tests\bin\Release\net6.0\BlackBytesBox.Distributed.bbdist.Tests.dll (Workers: 4, Scope: MethodLevel)&#xD;
+</StdOut>
+    </Output>
+  </ResultSummary>
+</TestRun>
