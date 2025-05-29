@@ -2,8 +2,8 @@
   "version": 1,
   "isRoot": true,
   "tools": {
-    "BlackBytesBox.Distributed": {
-      "version": "0.1.20251.15430",
+    "BlackBytesBox.Distributed.bbdist": {
+      "version": "0.1.20253.3524",
       "commands": [
         "bbdist"
       ],
