@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "BlackBytesBox.Distributed": {
+      "commandName": "Project",
+      "commandLineArgs": "sln --file C:\\dev\\github.com\\carsten-riedel\\BlackBytesBox.Distributed\\source\\BlackBytesBox.Distributed.sln"
+    }
+  }
+}
