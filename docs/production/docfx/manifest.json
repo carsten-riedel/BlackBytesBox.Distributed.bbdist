@@ -1,0 +1,431 @@
+{
+  "source_base_path": "D:/a/BlackBytesBox.Distributed.bbdist/BlackBytesBox.Distributed.bbdist/.config/docfx/build",
+  "xrefmap": "xrefmap.yml",
+  "files": [
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Program.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Program.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Serilog.Theme.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Serilog.Theme.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Serilog.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Serilog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.IOsVersionService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.IOsVersionService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.OsVersionService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.OsVersionService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand-1.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand-1.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Spectre.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Spectre.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Utility.Utility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Utility.Utility.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Utility.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Utility.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "api/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "api/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/getting-started.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/getting-started.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "docs/introduction.md",
+      "output": {
+        ".html": {
+          "relative_path": "docs/introduction.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "docs/toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "docs/toc.json"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Resource",
+      "source_relative_path": "images/blackbytes_small.gif",
+      "output": {
+        "resource": {
+          "relative_path": "images/blackbytes_small.gif"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index.md",
+      "output": {
+        ".html": {
+          "relative_path": "index.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Conceptual",
+      "source_relative_path": "index_template.md",
+      "output": {
+        ".html": {
+          "relative_path": "index_template.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "Toc",
+      "source_relative_path": "toc.yml",
+      "output": {
+        ".json": {
+          "relative_path": "toc.json"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "groups": [
+    {
+      "xrefmap": "xrefmap.yml"
+    }
+  ]
+}
