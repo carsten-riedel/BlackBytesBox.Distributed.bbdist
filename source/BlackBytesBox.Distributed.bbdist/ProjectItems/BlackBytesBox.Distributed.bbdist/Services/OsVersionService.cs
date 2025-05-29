@@ -6,7 +6,7 @@ using Microsoft.Extensions.Logging;
 using System.Runtime.InteropServices;
 
 
-namespace BlackBytesBox.Distributed.Services
+namespace BlackBytesBox.Distributed.bbdist.Services
 {
 
     /// <summary>

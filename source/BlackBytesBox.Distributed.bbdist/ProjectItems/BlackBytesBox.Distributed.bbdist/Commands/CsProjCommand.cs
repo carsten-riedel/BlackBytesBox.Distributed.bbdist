@@ -3,8 +3,8 @@ using System.ComponentModel;
 using System.Threading;
 using System.Threading.Tasks;
 
-using BlackBytesBox.Distributed.Services;
-using BlackBytesBox.Distributed.Spectre;
+using BlackBytesBox.Distributed.bbdist.Services;
+using BlackBytesBox.Distributed.bbdist.Spectre;
 
 using Microsoft.Extensions.Logging;
 
@@ -12,7 +12,7 @@ using Serilog.Events;
 
 using Spectre.Console.Cli;
 
-namespace BlackBytesBox.Distributed.Commands
+namespace BlackBytesBox.Distributed.bbdist.Commands
 {
     /// <summary>
     /// A command that retrieves a specified project property from a project file.

@@ -1,10 +1,10 @@
 ﻿using System.Threading.Tasks;
 
-using BlackBytesBox.Distributed.Commands;
-using BlackBytesBox.Distributed.Extensions.SpectreHostExtensions;
-using BlackBytesBox.Distributed.Serilog;
-using BlackBytesBox.Distributed.Services;
-using BlackBytesBox.Distributed.Spectre;
+using BlackBytesBox.Distributed.bbdist.Commands;
+using BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions;
+using BlackBytesBox.Distributed.bbdist.Serilog;
+using BlackBytesBox.Distributed.bbdist.Services;
+using BlackBytesBox.Distributed.bbdist.Spectre;
 
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -15,7 +15,7 @@ using Serilog.Events;
 
 using Spectre.Console.Cli;
 
-namespace BlackBytesBox.Distributed
+namespace BlackBytesBox.Distributed.bbdist
 {
     public class Program
     {

@@ -2,7 +2,7 @@
 
 using Serilog.Sinks.SystemConsole.Themes;
 
-namespace BlackBytesBox.Distributed.Serilog
+namespace BlackBytesBox.Distributed.bbdist.Serilog
 {
     public static partial class Theme
     {

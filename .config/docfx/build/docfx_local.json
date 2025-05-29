@@ -4,7 +4,7 @@
       "noRestore": true,
       "src": [
         {
-          "src": "C:/dev/github.com/carsten-riedel/BlackBytesBox.Retro.Core/source/BlackBytesBox.Retro.Core",
+          "src": "C:/dev/github.com/carsten-riedel/BlackBytesBox.Distributed.bbdist/source/BlackBytesBox.Distributed.bbdist/ProjectItems/BlackBytesBox.Distributed.bbdist",
           "files": [
             "**/*.csproj"
           ]
@@ -28,14 +28,14 @@
         ]
       }
     ],
-    "output": "C:/dev/github.com/carsten-riedel/BlackBytesBox.Retro.Core/reports/BlackBytesBox.Retro.Core/main/0.1.20253.2134/docfx",
+    "output": "C:/dev/github.com/carsten-riedel/BlackBytesBox.Distributed.bbdist/reports/BlackBytesBox.Distributed.bbdist/main/0.1.20253.3468/docfx",
     "template": [
       "statictoc",
       "../_exported_templates/override"
     ],
     "globalMetadata": {
-      "_appName": "BlackBytesBox.Retro.Core",
-      "_appTitle": "BlackBytesBox.Retro.Core",
+      "_appName": "BlackBytesBox.Distributed.bbdist",
+      "_appTitle": "BlackBytesBox.Distributed.bbdist",
       "_appFooter": "<pre></pre>"
     }
   }

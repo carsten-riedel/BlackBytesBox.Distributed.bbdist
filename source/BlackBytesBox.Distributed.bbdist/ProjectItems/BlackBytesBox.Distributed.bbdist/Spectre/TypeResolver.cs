@@ -2,7 +2,7 @@
 
 using Spectre.Console.Cli;
 
-namespace BlackBytesBox.Distributed.Spectre
+namespace BlackBytesBox.Distributed.bbdist.Spectre
 {
     public sealed class TypeResolver : ITypeResolver, IDisposable
     {

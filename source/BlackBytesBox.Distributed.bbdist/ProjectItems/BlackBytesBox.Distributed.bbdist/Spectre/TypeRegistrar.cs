@@ -4,7 +4,7 @@ using Microsoft.Extensions.DependencyInjection;
 
 using Spectre.Console.Cli;
 
-namespace BlackBytesBox.Distributed.Spectre
+namespace BlackBytesBox.Distributed.bbdist.Spectre
 {
     /// <summary>
     /// Implements Spectre.Console.Cli's ITypeRegistrar for dependency injection using IServiceCollection.

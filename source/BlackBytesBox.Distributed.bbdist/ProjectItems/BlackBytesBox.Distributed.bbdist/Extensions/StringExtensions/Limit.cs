@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace BlackBytesBox.Distributed.Extensions.StringExtensions
+namespace BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions
 {
     public static class StringExtensions
     {

@@ -13,10 +13,10 @@ using Serilog.Events;
 using Spectre.Console;
 using Spectre.Console.Cli;
 
-using BlackBytesBox.Distributed.Services;
-using BlackBytesBox.Distributed.Spectre;
+using BlackBytesBox.Distributed.bbdist.Services;
+using BlackBytesBox.Distributed.bbdist.Spectre;
 
-namespace BlackBytesBox.Distributed.Commands
+namespace BlackBytesBox.Distributed.bbdist.Commands
 {
     /// <summary>
     /// A concrete abortable command that demonstrates asynchronous, cancellation-aware work.

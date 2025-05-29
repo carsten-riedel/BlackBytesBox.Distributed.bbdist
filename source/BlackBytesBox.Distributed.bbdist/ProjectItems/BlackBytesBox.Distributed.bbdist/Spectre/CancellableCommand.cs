@@ -7,9 +7,9 @@ using System.Threading.Tasks;
 
 using Spectre.Console.Cli;
 
-using BlackBytesBox.Distributed.Extensions.SpectreHostExtensions;
+using BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions;
 
-namespace BlackBytesBox.Distributed.Spectre
+namespace BlackBytesBox.Distributed.bbdist.Spectre
 {
     /// <summary>
     /// An abstract base class for commands designed to be abortable via cancellation.

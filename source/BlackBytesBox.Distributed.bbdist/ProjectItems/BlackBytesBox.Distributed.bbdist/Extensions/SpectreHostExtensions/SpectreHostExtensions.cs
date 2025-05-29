@@ -5,9 +5,9 @@ using Microsoft.Extensions.Hosting;
 
 using Spectre.Console.Cli;
 
-using BlackBytesBox.Distributed.Spectre;
+using BlackBytesBox.Distributed.bbdist.Spectre;
 
-namespace BlackBytesBox.Distributed.Extensions.SpectreHostExtensions
+namespace BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions
 {
     /// <summary>
     /// Provides extension methods to register Spectre.CommandApp within the Generic Host.

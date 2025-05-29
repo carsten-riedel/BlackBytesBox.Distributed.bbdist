@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BlackBytesBox.Distributed.Utility
+namespace BlackBytesBox.Distributed.bbdist.Utility
 {
     public static class Utility
     {

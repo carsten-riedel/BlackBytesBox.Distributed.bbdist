@@ -10,7 +10,7 @@ using Microsoft.Extensions.Logging;
 
 using Spectre.Console.Cli;
 
-namespace BlackBytesBox.Distributed.Spectre
+namespace BlackBytesBox.Distributed.bbdist.Spectre
 {
     /// <summary>
     /// A hosted service that runs the Spectre.CommandApp asynchronously.

@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 using Microsoft.Build.Construction;
 using Microsoft.Extensions.Logging;
 
-namespace BlackBytesBox.Distributed.Services
+namespace BlackBytesBox.Distributed.bbdist.Services
 {
     /// <summary>
     /// A service for retrieving project file paths and properties from a solution.

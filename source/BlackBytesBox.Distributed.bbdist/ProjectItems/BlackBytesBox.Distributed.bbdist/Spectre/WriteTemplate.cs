@@ -4,7 +4,7 @@ using System.Threading.Tasks;
 
 using Spectre.Console;
 
-namespace BlackBytesBox.Distributed.Spectre
+namespace BlackBytesBox.Distributed.bbdist.Spectre
 {
     /// <summary>
     /// Represents the inputs used for markup formatting.

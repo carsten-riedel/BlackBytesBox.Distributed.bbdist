@@ -8,10 +8,10 @@ using Microsoft.Extensions.Logging;
 
 using Spectre.Console.Cli;
 
-using BlackBytesBox.Distributed.Services;
-using BlackBytesBox.Distributed.Spectre;
+using BlackBytesBox.Distributed.bbdist.Services;
+using BlackBytesBox.Distributed.bbdist.Spectre;
 
-namespace BlackBytesBox.Distributed.Commands
+namespace BlackBytesBox.Distributed.bbdist.Commands
 {
 
     /// <summary>
