@@ -194,6 +194,7 @@ foreach ($projectFile in $solutionProjectsObj) {
         }
         Replace-FilePlaceholders -InputFile "$topLevelDirectory/.config/docfx/build/docfx_local_template.json" -OutputFile "$topLevelDirectory/.config/docfx/build/docfx_local.json" -Replacements $replacements
         dotnet docfx "$topLevelDirectory/.config/docfx/build/docfx_local.json"
+        Invoke-Exec -Executable "dotnet" -Arguments @("docfx", "$topLevelDirectory/.config/docfx/build/docfx_local.json") -CaptureOutput $false
     }
 
     #$fileItem = Get-Item -Path $targetSolutionThirdPartyNoticesFile
