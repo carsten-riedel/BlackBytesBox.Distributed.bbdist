@@ -1,0 +1,1159 @@
+### YamlMime:XRefMap
+sorted: true
+references:
+- uid: BlackBytesBox.Distributed.bbdist
+  name: BlackBytesBox.Distributed.bbdist
+  href: api/BlackBytesBox.Distributed.bbdist.html
+  commentId: N:BlackBytesBox.Distributed.bbdist
+  fullName: BlackBytesBox.Distributed.bbdist
+  nameWithType: BlackBytesBox.Distributed.bbdist
+- uid: BlackBytesBox.Distributed.bbdist.Commands
+  name: BlackBytesBox.Distributed.bbdist.Commands
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.html
+  commentId: N:BlackBytesBox.Distributed.bbdist.Commands
+  fullName: BlackBytesBox.Distributed.bbdist.Commands
+  nameWithType: BlackBytesBox.Distributed.bbdist.Commands
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand
+  name: CsProjCommand
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand
+  nameWithType: CsProjCommand
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand},BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService)
+  name: CsProjCommand(ILogger<CsProjCommand>, ISolutionProjectService)
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand__ctor_Microsoft_Extensions_Logging_ILogger_BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand__BlackBytesBox_Distributed_bbdist_Services_ISolutionProjectService_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand},BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService)
+  name.vb: New(ILogger(Of CsProjCommand), ISolutionProjectService)
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.CsProjCommand(Microsoft.Extensions.Logging.ILogger<BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand>, BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.New(Microsoft.Extensions.Logging.ILogger(Of BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand), BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService)
+  nameWithType: CsProjCommand.CsProjCommand(ILogger<CsProjCommand>, ISolutionProjectService)
+  nameWithType.vb: CsProjCommand.New(ILogger(Of CsProjCommand), ISolutionProjectService)
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.#ctor*
+  name: CsProjCommand
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand__ctor_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.CsProjCommand
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.New
+  nameWithType: CsProjCommand.CsProjCommand
+  nameWithType.vb: CsProjCommand.New
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings,System.Threading.CancellationToken)
+  name: ExecuteAsync(CommandContext, Settings, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_ExecuteAsync_Spectre_Console_Cli_CommandContext_BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_Settings_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings,System.Threading.CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext, BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings, System.Threading.CancellationToken)
+  nameWithType: CsProjCommand.ExecuteAsync(CommandContext, CsProjCommand.Settings, CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.ExecuteAsync*
+  name: ExecuteAsync
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_ExecuteAsync_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.ExecuteAsync
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.ExecuteAsync
+  nameWithType: CsProjCommand.ExecuteAsync
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings
+  name: CsProjCommand.Settings
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings
+  nameWithType: CsProjCommand.Settings
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope
+  name: CsProjCommand.Settings.ElementScope
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope
+  nameWithType: CsProjCommand.Settings.ElementScope
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope.InnerElement
+  name: InnerElement
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_Settings_ElementScope_InnerElement
+  commentId: F:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope.InnerElement
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope.InnerElement
+  nameWithType: CsProjCommand.Settings.ElementScope.InnerElement
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope.OuterElement
+  name: OuterElement
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_Settings_ElementScope_OuterElement
+  commentId: F:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope.OuterElement
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope.OuterElement
+  nameWithType: CsProjCommand.Settings.ElementScope.OuterElement
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.FilePath
+  name: FilePath
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_Settings_FilePath
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.FilePath
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.FilePath
+  nameWithType: CsProjCommand.Settings.FilePath
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.FilePath*
+  name: FilePath
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_Settings_FilePath_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.FilePath
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.FilePath
+  nameWithType: CsProjCommand.Settings.FilePath
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.IgnoreErrors
+  name: IgnoreErrors
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_Settings_IgnoreErrors
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.IgnoreErrors
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.IgnoreErrors
+  nameWithType: CsProjCommand.Settings.IgnoreErrors
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.IgnoreErrors*
+  name: IgnoreErrors
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_Settings_IgnoreErrors_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.IgnoreErrors
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.IgnoreErrors
+  nameWithType: CsProjCommand.Settings.IgnoreErrors
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.MinLogLevel
+  name: MinLogLevel
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_Settings_MinLogLevel
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.MinLogLevel
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.MinLogLevel
+  nameWithType: CsProjCommand.Settings.MinLogLevel
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.MinLogLevel*
+  name: MinLogLevel
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_Settings_MinLogLevel_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.MinLogLevel
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.MinLogLevel
+  nameWithType: CsProjCommand.Settings.MinLogLevel
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.PropertyName
+  name: PropertyName
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_Settings_PropertyName
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.PropertyName
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.PropertyName
+  nameWithType: CsProjCommand.Settings.PropertyName
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.PropertyName*
+  name: PropertyName
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_Settings_PropertyName_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.PropertyName
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.PropertyName
+  nameWithType: CsProjCommand.Settings.PropertyName
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.Scope
+  name: Scope
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_Settings_Scope
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.Scope
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.Scope
+  nameWithType: CsProjCommand.Settings.Scope
+- uid: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.Scope*
+  name: Scope
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_Settings_Scope_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.Scope
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.Scope
+  nameWithType: CsProjCommand.Settings.Scope
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2
+  name: DefaultAbortableCommand2
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2
+  nameWithType: DefaultAbortableCommand2
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2})
+  name: DefaultAbortableCommand2(ILogger<DefaultAbortableCommand2>)
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.html#BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2__ctor_Microsoft_Extensions_Logging_ILogger_BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2__
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2})
+  name.vb: New(ILogger(Of DefaultAbortableCommand2))
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.DefaultAbortableCommand2(Microsoft.Extensions.Logging.ILogger<BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2>)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.New(Microsoft.Extensions.Logging.ILogger(Of BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2))
+  nameWithType: DefaultAbortableCommand2.DefaultAbortableCommand2(ILogger<DefaultAbortableCommand2>)
+  nameWithType.vb: DefaultAbortableCommand2.New(ILogger(Of DefaultAbortableCommand2))
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.#ctor*
+  name: DefaultAbortableCommand2
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.html#BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2__ctor_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.DefaultAbortableCommand2
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.New
+  nameWithType: DefaultAbortableCommand2.DefaultAbortableCommand2
+  nameWithType.vb: DefaultAbortableCommand2.New
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings,System.Threading.CancellationToken)
+  name: ExecuteAsync(CommandContext, Settings, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.html#BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2_ExecuteAsync_Spectre_Console_Cli_CommandContext_BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2_Settings_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings,System.Threading.CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.ExecuteAsync(Spectre.Console.Cli.CommandContext, BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings, System.Threading.CancellationToken)
+  nameWithType: DefaultAbortableCommand2.ExecuteAsync(CommandContext, DefaultAbortableCommand2.Settings, CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.ExecuteAsync*
+  name: ExecuteAsync
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.html#BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2_ExecuteAsync_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.ExecuteAsync
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.ExecuteAsync
+  nameWithType: DefaultAbortableCommand2.ExecuteAsync
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings
+  name: DefaultAbortableCommand2.Settings
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings
+  nameWithType: DefaultAbortableCommand2.Settings
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.Name
+  name: Name
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2_Settings_Name
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.Name
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.Name
+  nameWithType: DefaultAbortableCommand2.Settings.Name
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.Name*
+  name: Name
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2_Settings_Name_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.Name
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.Name
+  nameWithType: DefaultAbortableCommand2.Settings.Name
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand
+  name: DumpCommand
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand
+  nameWithType: DumpCommand
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.DumpCommand},BlackBytesBox.Distributed.bbdist.Services.IOsVersionService)
+  name: DumpCommand(ILogger<DumpCommand>, IOsVersionService)
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.html#BlackBytesBox_Distributed_bbdist_Commands_DumpCommand__ctor_Microsoft_Extensions_Logging_ILogger_BlackBytesBox_Distributed_bbdist_Commands_DumpCommand__BlackBytesBox_Distributed_bbdist_Services_IOsVersionService_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.DumpCommand},BlackBytesBox.Distributed.bbdist.Services.IOsVersionService)
+  name.vb: New(ILogger(Of DumpCommand), IOsVersionService)
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.DumpCommand(Microsoft.Extensions.Logging.ILogger<BlackBytesBox.Distributed.bbdist.Commands.DumpCommand>, BlackBytesBox.Distributed.bbdist.Services.IOsVersionService)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.New(Microsoft.Extensions.Logging.ILogger(Of BlackBytesBox.Distributed.bbdist.Commands.DumpCommand), BlackBytesBox.Distributed.bbdist.Services.IOsVersionService)
+  nameWithType: DumpCommand.DumpCommand(ILogger<DumpCommand>, IOsVersionService)
+  nameWithType.vb: DumpCommand.New(ILogger(Of DumpCommand), IOsVersionService)
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.#ctor*
+  name: DumpCommand
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.html#BlackBytesBox_Distributed_bbdist_Commands_DumpCommand__ctor_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.DumpCommand
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.New
+  nameWithType: DumpCommand.DumpCommand
+  nameWithType.vb: DumpCommand.New
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings,System.Threading.CancellationToken)
+  name: ExecuteAsync(CommandContext, Settings, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.html#BlackBytesBox_Distributed_bbdist_Commands_DumpCommand_ExecuteAsync_Spectre_Console_Cli_CommandContext_BlackBytesBox_Distributed_bbdist_Commands_DumpCommand_Settings_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings,System.Threading.CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext, BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings, System.Threading.CancellationToken)
+  nameWithType: DumpCommand.ExecuteAsync(CommandContext, DumpCommand.Settings, CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.ExecuteAsync*
+  name: ExecuteAsync
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.html#BlackBytesBox_Distributed_bbdist_Commands_DumpCommand_ExecuteAsync_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.ExecuteAsync
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.ExecuteAsync
+  nameWithType: DumpCommand.ExecuteAsync
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings
+  name: DumpCommand.Settings
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings
+  nameWithType: DumpCommand.Settings
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Delay
+  name: Delay
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_DumpCommand_Settings_Delay
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Delay
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Delay
+  nameWithType: DumpCommand.Settings.Delay
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Delay*
+  name: Delay
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_DumpCommand_Settings_Delay_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Delay
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Delay
+  nameWithType: DumpCommand.Settings.Delay
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.ForceSuccess
+  name: ForceSuccess
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_DumpCommand_Settings_ForceSuccess
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.ForceSuccess
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.ForceSuccess
+  nameWithType: DumpCommand.Settings.ForceSuccess
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.ForceSuccess*
+  name: ForceSuccess
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_DumpCommand_Settings_ForceSuccess_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.ForceSuccess
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.ForceSuccess
+  nameWithType: DumpCommand.Settings.ForceSuccess
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.LogEventLevel
+  name: LogEventLevel
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_DumpCommand_Settings_LogEventLevel
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.LogEventLevel
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.LogEventLevel
+  nameWithType: DumpCommand.Settings.LogEventLevel
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.LogEventLevel*
+  name: LogEventLevel
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_DumpCommand_Settings_LogEventLevel_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.LogEventLevel
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.LogEventLevel
+  nameWithType: DumpCommand.Settings.LogEventLevel
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Target
+  name: Target
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_DumpCommand_Settings_Target
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Target
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Target
+  nameWithType: DumpCommand.Settings.Target
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Target*
+  name: Target
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_DumpCommand_Settings_Target_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Target
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Target
+  nameWithType: DumpCommand.Settings.Target
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Validate
+  name: Validate()
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_DumpCommand_Settings_Validate
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Validate
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Validate()
+  nameWithType: DumpCommand.Settings.Validate()
+- uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Validate*
+  name: Validate
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_DumpCommand_Settings_Validate_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Validate
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.Validate
+  nameWithType: DumpCommand.Settings.Validate
+- uid: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand
+  name: SlnCommand
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.SlnCommand
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand
+  nameWithType: SlnCommand
+- uid: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.SlnCommand},BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService)
+  name: SlnCommand(ILogger<SlnCommand>, ISolutionProjectService)
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.html#BlackBytesBox_Distributed_bbdist_Commands_SlnCommand__ctor_Microsoft_Extensions_Logging_ILogger_BlackBytesBox_Distributed_bbdist_Commands_SlnCommand__BlackBytesBox_Distributed_bbdist_Services_ISolutionProjectService_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.SlnCommand},BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService)
+  name.vb: New(ILogger(Of SlnCommand), ISolutionProjectService)
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.SlnCommand(Microsoft.Extensions.Logging.ILogger<BlackBytesBox.Distributed.bbdist.Commands.SlnCommand>, BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.New(Microsoft.Extensions.Logging.ILogger(Of BlackBytesBox.Distributed.bbdist.Commands.SlnCommand), BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService)
+  nameWithType: SlnCommand.SlnCommand(ILogger<SlnCommand>, ISolutionProjectService)
+  nameWithType.vb: SlnCommand.New(ILogger(Of SlnCommand), ISolutionProjectService)
+- uid: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.#ctor*
+  name: SlnCommand
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.html#BlackBytesBox_Distributed_bbdist_Commands_SlnCommand__ctor_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.SlnCommand
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.New
+  nameWithType: SlnCommand.SlnCommand
+  nameWithType.vb: SlnCommand.New
+- uid: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings,System.Threading.CancellationToken)
+  name: ExecuteAsync(CommandContext, Settings, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.html#BlackBytesBox_Distributed_bbdist_Commands_SlnCommand_ExecuteAsync_Spectre_Console_Cli_CommandContext_BlackBytesBox_Distributed_bbdist_Commands_SlnCommand_Settings_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings,System.Threading.CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext, BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings, System.Threading.CancellationToken)
+  nameWithType: SlnCommand.ExecuteAsync(CommandContext, SlnCommand.Settings, CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.ExecuteAsync*
+  name: ExecuteAsync
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.html#BlackBytesBox_Distributed_bbdist_Commands_SlnCommand_ExecuteAsync_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.ExecuteAsync
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.ExecuteAsync
+  nameWithType: SlnCommand.ExecuteAsync
+- uid: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings
+  name: SlnCommand.Settings
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings
+  nameWithType: SlnCommand.Settings
+- uid: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.FilePath
+  name: FilePath
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_SlnCommand_Settings_FilePath
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.FilePath
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.FilePath
+  nameWithType: SlnCommand.Settings.FilePath
+- uid: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.FilePath*
+  name: FilePath
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_SlnCommand_Settings_FilePath_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.FilePath
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.FilePath
+  nameWithType: SlnCommand.Settings.FilePath
+- uid: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.IgnoreErrors
+  name: IgnoreErrors
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_SlnCommand_Settings_IgnoreErrors
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.IgnoreErrors
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.IgnoreErrors
+  nameWithType: SlnCommand.Settings.IgnoreErrors
+- uid: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.IgnoreErrors*
+  name: IgnoreErrors
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_SlnCommand_Settings_IgnoreErrors_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.IgnoreErrors
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.IgnoreErrors
+  nameWithType: SlnCommand.Settings.IgnoreErrors
+- uid: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.MinLogLevel
+  name: MinLogLevel
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_SlnCommand_Settings_MinLogLevel
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.MinLogLevel
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.MinLogLevel
+  nameWithType: SlnCommand.Settings.MinLogLevel
+- uid: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.MinLogLevel*
+  name: MinLogLevel
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_SlnCommand_Settings_MinLogLevel_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.MinLogLevel
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.MinLogLevel
+  nameWithType: SlnCommand.Settings.MinLogLevel
+- uid: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand
+  name: VsCodeCommand
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand
+  nameWithType: VsCodeCommand
+- uid: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand},BlackBytesBox.Distributed.bbdist.Services.IOsVersionService)
+  name: VsCodeCommand(ILogger<VsCodeCommand>, IOsVersionService)
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.html#BlackBytesBox_Distributed_bbdist_Commands_VsCodeCommand__ctor_Microsoft_Extensions_Logging_ILogger_BlackBytesBox_Distributed_bbdist_Commands_VsCodeCommand__BlackBytesBox_Distributed_bbdist_Services_IOsVersionService_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand},BlackBytesBox.Distributed.bbdist.Services.IOsVersionService)
+  name.vb: New(ILogger(Of VsCodeCommand), IOsVersionService)
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.VsCodeCommand(Microsoft.Extensions.Logging.ILogger<BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand>, BlackBytesBox.Distributed.bbdist.Services.IOsVersionService)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.New(Microsoft.Extensions.Logging.ILogger(Of BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand), BlackBytesBox.Distributed.bbdist.Services.IOsVersionService)
+  nameWithType: VsCodeCommand.VsCodeCommand(ILogger<VsCodeCommand>, IOsVersionService)
+  nameWithType.vb: VsCodeCommand.New(ILogger(Of VsCodeCommand), IOsVersionService)
+- uid: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.#ctor*
+  name: VsCodeCommand
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.html#BlackBytesBox_Distributed_bbdist_Commands_VsCodeCommand__ctor_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.VsCodeCommand
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.New
+  nameWithType: VsCodeCommand.VsCodeCommand
+  nameWithType.vb: VsCodeCommand.New
+- uid: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings,System.Threading.CancellationToken)
+  name: ExecuteAsync(CommandContext, Settings, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.html#BlackBytesBox_Distributed_bbdist_Commands_VsCodeCommand_ExecuteAsync_Spectre_Console_Cli_CommandContext_BlackBytesBox_Distributed_bbdist_Commands_VsCodeCommand_Settings_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings,System.Threading.CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext, BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings, System.Threading.CancellationToken)
+  nameWithType: VsCodeCommand.ExecuteAsync(CommandContext, VsCodeCommand.Settings, CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.ExecuteAsync*
+  name: ExecuteAsync
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.html#BlackBytesBox_Distributed_bbdist_Commands_VsCodeCommand_ExecuteAsync_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.ExecuteAsync
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.ExecuteAsync
+  nameWithType: VsCodeCommand.ExecuteAsync
+- uid: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings
+  name: VsCodeCommand.Settings
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings
+  nameWithType: VsCodeCommand.Settings
+- uid: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.Delay
+  name: Delay
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_VsCodeCommand_Settings_Delay
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.Delay
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.Delay
+  nameWithType: VsCodeCommand.Settings.Delay
+- uid: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.Delay*
+  name: Delay
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_VsCodeCommand_Settings_Delay_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.Delay
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.Delay
+  nameWithType: VsCodeCommand.Settings.Delay
+- uid: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.ForceSuccess
+  name: ForceSuccess
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_VsCodeCommand_Settings_ForceSuccess
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.ForceSuccess
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.ForceSuccess
+  nameWithType: VsCodeCommand.Settings.ForceSuccess
+- uid: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.ForceSuccess*
+  name: ForceSuccess
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_VsCodeCommand_Settings_ForceSuccess_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.ForceSuccess
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.ForceSuccess
+  nameWithType: VsCodeCommand.Settings.ForceSuccess
+- uid: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.LogEventLevel
+  name: LogEventLevel
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_VsCodeCommand_Settings_LogEventLevel
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.LogEventLevel
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.LogEventLevel
+  nameWithType: VsCodeCommand.Settings.LogEventLevel
+- uid: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.LogEventLevel*
+  name: LogEventLevel
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_VsCodeCommand_Settings_LogEventLevel_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.LogEventLevel
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.LogEventLevel
+  nameWithType: VsCodeCommand.Settings.LogEventLevel
+- uid: BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions
+  name: BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions
+  href: api/BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.html
+  commentId: N:BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions
+  fullName: BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions
+  nameWithType: BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions
+- uid: BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions
+  name: SpectreHostExtensions
+  href: api/BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions
+  fullName: BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions
+  nameWithType: SpectreHostExtensions
+- uid: BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.AddCommandAppHostedService(Microsoft.Extensions.Hosting.IHostBuilder,System.Action{Spectre.Console.Cli.IConfigurator},System.String[])
+  name: AddCommandAppHostedService(IHostBuilder, Action<IConfigurator>, string[])
+  href: api/BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.html#BlackBytesBox_Distributed_bbdist_Extensions_SpectreHostExtensions_SpectreHostExtensions_AddCommandAppHostedService_Microsoft_Extensions_Hosting_IHostBuilder_System_Action_Spectre_Console_Cli_IConfigurator__System_String___
+  commentId: M:BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.AddCommandAppHostedService(Microsoft.Extensions.Hosting.IHostBuilder,System.Action{Spectre.Console.Cli.IConfigurator},System.String[])
+  name.vb: AddCommandAppHostedService(IHostBuilder, Action(Of IConfigurator), String())
+  fullName: BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.AddCommandAppHostedService(Microsoft.Extensions.Hosting.IHostBuilder, System.Action<Spectre.Console.Cli.IConfigurator>, string[])
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.AddCommandAppHostedService(Microsoft.Extensions.Hosting.IHostBuilder, System.Action(Of Spectre.Console.Cli.IConfigurator), String())
+  nameWithType: SpectreHostExtensions.AddCommandAppHostedService(IHostBuilder, Action<IConfigurator>, string[])
+  nameWithType.vb: SpectreHostExtensions.AddCommandAppHostedService(IHostBuilder, Action(Of IConfigurator), String())
+- uid: BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.AddCommandAppHostedService*
+  name: AddCommandAppHostedService
+  href: api/BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.html#BlackBytesBox_Distributed_bbdist_Extensions_SpectreHostExtensions_SpectreHostExtensions_AddCommandAppHostedService_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.AddCommandAppHostedService
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.SpectreHostExtensions.AddCommandAppHostedService
+  nameWithType: SpectreHostExtensions.AddCommandAppHostedService
+- uid: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions
+  name: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions
+  href: api/BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.html
+  commentId: N:BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions
+  fullName: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions
+  nameWithType: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions
+- uid: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions
+  name: StringExtensions
+  href: api/BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions
+  fullName: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions
+  nameWithType: StringExtensions
+- uid: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.GetSegments(System.String)
+  name: GetSegments(string)
+  href: api/BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.html#BlackBytesBox_Distributed_bbdist_Extensions_StringExtensions_StringExtensions_GetSegments_System_String_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.GetSegments(System.String)
+  name.vb: GetSegments(String)
+  fullName: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.GetSegments(string)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.GetSegments(String)
+  nameWithType: StringExtensions.GetSegments(string)
+  nameWithType.vb: StringExtensions.GetSegments(String)
+- uid: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.GetSegments*
+  name: GetSegments
+  href: api/BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.html#BlackBytesBox_Distributed_bbdist_Extensions_StringExtensions_StringExtensions_GetSegments_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.GetSegments
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.GetSegments
+  nameWithType: StringExtensions.GetSegments
+- uid: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.HasOneOrNoneSlash(System.String)
+  name: HasOneOrNoneSlash(string)
+  href: api/BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.html#BlackBytesBox_Distributed_bbdist_Extensions_StringExtensions_StringExtensions_HasOneOrNoneSlash_System_String_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.HasOneOrNoneSlash(System.String)
+  name.vb: HasOneOrNoneSlash(String)
+  fullName: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.HasOneOrNoneSlash(string)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.HasOneOrNoneSlash(String)
+  nameWithType: StringExtensions.HasOneOrNoneSlash(string)
+  nameWithType.vb: StringExtensions.HasOneOrNoneSlash(String)
+- uid: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.HasOneOrNoneSlash*
+  name: HasOneOrNoneSlash
+  href: api/BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.html#BlackBytesBox_Distributed_bbdist_Extensions_StringExtensions_StringExtensions_HasOneOrNoneSlash_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.HasOneOrNoneSlash
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.HasOneOrNoneSlash
+  nameWithType: StringExtensions.HasOneOrNoneSlash
+- uid: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.Limit(System.String,System.Int32)
+  name: Limit(string, int)
+  href: api/BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.html#BlackBytesBox_Distributed_bbdist_Extensions_StringExtensions_StringExtensions_Limit_System_String_System_Int32_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.Limit(System.String,System.Int32)
+  name.vb: Limit(String, Integer)
+  fullName: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.Limit(string, int)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.Limit(String, Integer)
+  nameWithType: StringExtensions.Limit(string, int)
+  nameWithType.vb: StringExtensions.Limit(String, Integer)
+- uid: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.Limit*
+  name: Limit
+  href: api/BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.html#BlackBytesBox_Distributed_bbdist_Extensions_StringExtensions_StringExtensions_Limit_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.Limit
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.Limit
+  nameWithType: StringExtensions.Limit
+- uid: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.PadLimit(System.String,System.Int32)
+  name: PadLimit(string, int)
+  href: api/BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.html#BlackBytesBox_Distributed_bbdist_Extensions_StringExtensions_StringExtensions_PadLimit_System_String_System_Int32_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.PadLimit(System.String,System.Int32)
+  name.vb: PadLimit(String, Integer)
+  fullName: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.PadLimit(string, int)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.PadLimit(String, Integer)
+  nameWithType: StringExtensions.PadLimit(string, int)
+  nameWithType.vb: StringExtensions.PadLimit(String, Integer)
+- uid: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.PadLimit*
+  name: PadLimit
+  href: api/BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.html#BlackBytesBox_Distributed_bbdist_Extensions_StringExtensions_StringExtensions_PadLimit_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.PadLimit
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Extensions.StringExtensions.StringExtensions.PadLimit
+  nameWithType: StringExtensions.PadLimit
+- uid: BlackBytesBox.Distributed.bbdist.Program
+  name: Program
+  href: api/BlackBytesBox.Distributed.bbdist.Program.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Program
+  fullName: BlackBytesBox.Distributed.bbdist.Program
+  nameWithType: Program
+- uid: BlackBytesBox.Distributed.bbdist.Program.Main(System.String[])
+  name: Main(string[])
+  href: api/BlackBytesBox.Distributed.bbdist.Program.html#BlackBytesBox_Distributed_bbdist_Program_Main_System_String___
+  commentId: M:BlackBytesBox.Distributed.bbdist.Program.Main(System.String[])
+  name.vb: Main(String())
+  fullName: BlackBytesBox.Distributed.bbdist.Program.Main(string[])
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Program.Main(String())
+  nameWithType: Program.Main(string[])
+  nameWithType.vb: Program.Main(String())
+- uid: BlackBytesBox.Distributed.bbdist.Program.Main*
+  name: Main
+  href: api/BlackBytesBox.Distributed.bbdist.Program.html#BlackBytesBox_Distributed_bbdist_Program_Main_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Program.Main
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Program.Main
+  nameWithType: Program.Main
+- uid: BlackBytesBox.Distributed.bbdist.Program.levelSwitch
+  name: levelSwitch
+  href: api/BlackBytesBox.Distributed.bbdist.Program.html#BlackBytesBox_Distributed_bbdist_Program_levelSwitch
+  commentId: F:BlackBytesBox.Distributed.bbdist.Program.levelSwitch
+  fullName: BlackBytesBox.Distributed.bbdist.Program.levelSwitch
+  nameWithType: Program.levelSwitch
+- uid: BlackBytesBox.Distributed.bbdist.Serilog
+  name: BlackBytesBox.Distributed.bbdist.Serilog
+  href: api/BlackBytesBox.Distributed.bbdist.Serilog.html
+  commentId: N:BlackBytesBox.Distributed.bbdist.Serilog
+  fullName: BlackBytesBox.Distributed.bbdist.Serilog
+  nameWithType: BlackBytesBox.Distributed.bbdist.Serilog
+- uid: BlackBytesBox.Distributed.bbdist.Serilog.Theme
+  name: Theme
+  href: api/BlackBytesBox.Distributed.bbdist.Serilog.Theme.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Serilog.Theme
+  fullName: BlackBytesBox.Distributed.bbdist.Serilog.Theme
+  nameWithType: Theme
+- uid: BlackBytesBox.Distributed.bbdist.Serilog.Theme.ClarionDusk
+  name: ClarionDusk
+  href: api/BlackBytesBox.Distributed.bbdist.Serilog.Theme.html#BlackBytesBox_Distributed_bbdist_Serilog_Theme_ClarionDusk
+  commentId: P:BlackBytesBox.Distributed.bbdist.Serilog.Theme.ClarionDusk
+  fullName: BlackBytesBox.Distributed.bbdist.Serilog.Theme.ClarionDusk
+  nameWithType: Theme.ClarionDusk
+- uid: BlackBytesBox.Distributed.bbdist.Serilog.Theme.ClarionDusk*
+  name: ClarionDusk
+  href: api/BlackBytesBox.Distributed.bbdist.Serilog.Theme.html#BlackBytesBox_Distributed_bbdist_Serilog_Theme_ClarionDusk_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Serilog.Theme.ClarionDusk
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Serilog.Theme.ClarionDusk
+  nameWithType: Theme.ClarionDusk
+- uid: BlackBytesBox.Distributed.bbdist.Services
+  name: BlackBytesBox.Distributed.bbdist.Services
+  href: api/BlackBytesBox.Distributed.bbdist.Services.html
+  commentId: N:BlackBytesBox.Distributed.bbdist.Services
+  fullName: BlackBytesBox.Distributed.bbdist.Services
+  nameWithType: BlackBytesBox.Distributed.bbdist.Services
+- uid: BlackBytesBox.Distributed.bbdist.Services.IOsVersionService
+  name: IOsVersionService
+  href: api/BlackBytesBox.Distributed.bbdist.Services.IOsVersionService.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Services.IOsVersionService
+  fullName: BlackBytesBox.Distributed.bbdist.Services.IOsVersionService
+  nameWithType: IOsVersionService
+- uid: BlackBytesBox.Distributed.bbdist.Services.IOsVersionService.ShowOsVersion(System.Threading.CancellationToken)
+  name: ShowOsVersion(CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.IOsVersionService.html#BlackBytesBox_Distributed_bbdist_Services_IOsVersionService_ShowOsVersion_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.IOsVersionService.ShowOsVersion(System.Threading.CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Services.IOsVersionService.ShowOsVersion(System.Threading.CancellationToken)
+  nameWithType: IOsVersionService.ShowOsVersion(CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Services.IOsVersionService.ShowOsVersion*
+  name: ShowOsVersion
+  href: api/BlackBytesBox.Distributed.bbdist.Services.IOsVersionService.html#BlackBytesBox_Distributed_bbdist_Services_IOsVersionService_ShowOsVersion_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.IOsVersionService.ShowOsVersion
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Services.IOsVersionService.ShowOsVersion
+  nameWithType: IOsVersionService.ShowOsVersion
+- uid: BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService
+  name: ISolutionProjectService
+  href: api/BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService
+  fullName: BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService
+  nameWithType: ISolutionProjectService
+- uid: BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.GetCsProjAbsolutPathsFromSolutions(System.String,System.Threading.CancellationToken)
+  name: GetCsProjAbsolutPathsFromSolutions(string, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.html#BlackBytesBox_Distributed_bbdist_Services_ISolutionProjectService_GetCsProjAbsolutPathsFromSolutions_System_String_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.GetCsProjAbsolutPathsFromSolutions(System.String,System.Threading.CancellationToken)
+  name.vb: GetCsProjAbsolutPathsFromSolutions(String, CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.GetCsProjAbsolutPathsFromSolutions(string, System.Threading.CancellationToken)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.GetCsProjAbsolutPathsFromSolutions(String, System.Threading.CancellationToken)
+  nameWithType: ISolutionProjectService.GetCsProjAbsolutPathsFromSolutions(string, CancellationToken)
+  nameWithType.vb: ISolutionProjectService.GetCsProjAbsolutPathsFromSolutions(String, CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.GetCsProjAbsolutPathsFromSolutions*
+  name: GetCsProjAbsolutPathsFromSolutions
+  href: api/BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.html#BlackBytesBox_Distributed_bbdist_Services_ISolutionProjectService_GetCsProjAbsolutPathsFromSolutions_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.GetCsProjAbsolutPathsFromSolutions
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.GetCsProjAbsolutPathsFromSolutions
+  nameWithType: ISolutionProjectService.GetCsProjAbsolutPathsFromSolutions
+- uid: BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.GetProjectProperty(System.String,System.String,System.Nullable{BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope},System.Threading.CancellationToken)
+  name: GetProjectProperty(string, string?, ElementScope?, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.html#BlackBytesBox_Distributed_bbdist_Services_ISolutionProjectService_GetProjectProperty_System_String_System_String_System_Nullable_BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_Settings_ElementScope__System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.GetProjectProperty(System.String,System.String,System.Nullable{BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope},System.Threading.CancellationToken)
+  name.vb: GetProjectProperty(String, String, ElementScope?, CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.GetProjectProperty(string, string?, BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope?, System.Threading.CancellationToken)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.GetProjectProperty(String, String, BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope?, System.Threading.CancellationToken)
+  nameWithType: ISolutionProjectService.GetProjectProperty(string, string?, CsProjCommand.Settings.ElementScope?, CancellationToken)
+  nameWithType.vb: ISolutionProjectService.GetProjectProperty(String, String, CsProjCommand.Settings.ElementScope?, CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.GetProjectProperty*
+  name: GetProjectProperty
+  href: api/BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.html#BlackBytesBox_Distributed_bbdist_Services_ISolutionProjectService_GetProjectProperty_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.GetProjectProperty
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Services.ISolutionProjectService.GetProjectProperty
+  nameWithType: ISolutionProjectService.GetProjectProperty
+- uid: BlackBytesBox.Distributed.bbdist.Services.OsVersionService
+  name: OsVersionService
+  href: api/BlackBytesBox.Distributed.bbdist.Services.OsVersionService.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Services.OsVersionService
+  fullName: BlackBytesBox.Distributed.bbdist.Services.OsVersionService
+  nameWithType: OsVersionService
+- uid: BlackBytesBox.Distributed.bbdist.Services.OsVersionService.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Services.OsVersionService})
+  name: OsVersionService(ILogger<OsVersionService>)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.OsVersionService.html#BlackBytesBox_Distributed_bbdist_Services_OsVersionService__ctor_Microsoft_Extensions_Logging_ILogger_BlackBytesBox_Distributed_bbdist_Services_OsVersionService__
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.OsVersionService.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Services.OsVersionService})
+  name.vb: New(ILogger(Of OsVersionService))
+  fullName: BlackBytesBox.Distributed.bbdist.Services.OsVersionService.OsVersionService(Microsoft.Extensions.Logging.ILogger<BlackBytesBox.Distributed.bbdist.Services.OsVersionService>)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.OsVersionService.New(Microsoft.Extensions.Logging.ILogger(Of BlackBytesBox.Distributed.bbdist.Services.OsVersionService))
+  nameWithType: OsVersionService.OsVersionService(ILogger<OsVersionService>)
+  nameWithType.vb: OsVersionService.New(ILogger(Of OsVersionService))
+- uid: BlackBytesBox.Distributed.bbdist.Services.OsVersionService.#ctor*
+  name: OsVersionService
+  href: api/BlackBytesBox.Distributed.bbdist.Services.OsVersionService.html#BlackBytesBox_Distributed_bbdist_Services_OsVersionService__ctor_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.OsVersionService.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BlackBytesBox.Distributed.bbdist.Services.OsVersionService.OsVersionService
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.OsVersionService.New
+  nameWithType: OsVersionService.OsVersionService
+  nameWithType.vb: OsVersionService.New
+- uid: BlackBytesBox.Distributed.bbdist.Services.OsVersionService.ShowOsVersion(System.Threading.CancellationToken)
+  name: ShowOsVersion(CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.OsVersionService.html#BlackBytesBox_Distributed_bbdist_Services_OsVersionService_ShowOsVersion_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.OsVersionService.ShowOsVersion(System.Threading.CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Services.OsVersionService.ShowOsVersion(System.Threading.CancellationToken)
+  nameWithType: OsVersionService.ShowOsVersion(CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Services.OsVersionService.ShowOsVersion*
+  name: ShowOsVersion
+  href: api/BlackBytesBox.Distributed.bbdist.Services.OsVersionService.html#BlackBytesBox_Distributed_bbdist_Services_OsVersionService_ShowOsVersion_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.OsVersionService.ShowOsVersion
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Services.OsVersionService.ShowOsVersion
+  nameWithType: OsVersionService.ShowOsVersion
+- uid: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService
+  name: SolutionProjectService
+  href: api/BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService
+  fullName: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService
+  nameWithType: SolutionProjectService
+- uid: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService})
+  name: SolutionProjectService(ILogger<SolutionProjectService>)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.html#BlackBytesBox_Distributed_bbdist_Services_SolutionProjectService__ctor_Microsoft_Extensions_Logging_ILogger_BlackBytesBox_Distributed_bbdist_Services_SolutionProjectService__
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService})
+  name.vb: New(ILogger(Of SolutionProjectService))
+  fullName: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.SolutionProjectService(Microsoft.Extensions.Logging.ILogger<BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService>)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.New(Microsoft.Extensions.Logging.ILogger(Of BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService))
+  nameWithType: SolutionProjectService.SolutionProjectService(ILogger<SolutionProjectService>)
+  nameWithType.vb: SolutionProjectService.New(ILogger(Of SolutionProjectService))
+- uid: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.#ctor*
+  name: SolutionProjectService
+  href: api/BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.html#BlackBytesBox_Distributed_bbdist_Services_SolutionProjectService__ctor_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.SolutionProjectService
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.New
+  nameWithType: SolutionProjectService.SolutionProjectService
+  nameWithType.vb: SolutionProjectService.New
+- uid: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.GetCsProjAbsolutPathsFromSolutions(System.String,System.Threading.CancellationToken)
+  name: GetCsProjAbsolutPathsFromSolutions(string, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.html#BlackBytesBox_Distributed_bbdist_Services_SolutionProjectService_GetCsProjAbsolutPathsFromSolutions_System_String_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.GetCsProjAbsolutPathsFromSolutions(System.String,System.Threading.CancellationToken)
+  name.vb: GetCsProjAbsolutPathsFromSolutions(String, CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.GetCsProjAbsolutPathsFromSolutions(string, System.Threading.CancellationToken)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.GetCsProjAbsolutPathsFromSolutions(String, System.Threading.CancellationToken)
+  nameWithType: SolutionProjectService.GetCsProjAbsolutPathsFromSolutions(string, CancellationToken)
+  nameWithType.vb: SolutionProjectService.GetCsProjAbsolutPathsFromSolutions(String, CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.GetCsProjAbsolutPathsFromSolutions*
+  name: GetCsProjAbsolutPathsFromSolutions
+  href: api/BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.html#BlackBytesBox_Distributed_bbdist_Services_SolutionProjectService_GetCsProjAbsolutPathsFromSolutions_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.GetCsProjAbsolutPathsFromSolutions
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.GetCsProjAbsolutPathsFromSolutions
+  nameWithType: SolutionProjectService.GetCsProjAbsolutPathsFromSolutions
+- uid: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.GetProjectProperty(System.String,System.String,System.Nullable{BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope},System.Threading.CancellationToken)
+  name: GetProjectProperty(string, string?, ElementScope?, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.html#BlackBytesBox_Distributed_bbdist_Services_SolutionProjectService_GetProjectProperty_System_String_System_String_System_Nullable_BlackBytesBox_Distributed_bbdist_Commands_CsProjCommand_Settings_ElementScope__System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.GetProjectProperty(System.String,System.String,System.Nullable{BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope},System.Threading.CancellationToken)
+  name.vb: GetProjectProperty(String, String, ElementScope?, CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.GetProjectProperty(string, string?, BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope?, System.Threading.CancellationToken)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.GetProjectProperty(String, String, BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.ElementScope?, System.Threading.CancellationToken)
+  nameWithType: SolutionProjectService.GetProjectProperty(string, string?, CsProjCommand.Settings.ElementScope?, CancellationToken)
+  nameWithType.vb: SolutionProjectService.GetProjectProperty(String, String, CsProjCommand.Settings.ElementScope?, CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.GetProjectProperty*
+  name: GetProjectProperty
+  href: api/BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.html#BlackBytesBox_Distributed_bbdist_Services_SolutionProjectService_GetProjectProperty_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.GetProjectProperty
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Services.SolutionProjectService.GetProjectProperty
+  nameWithType: SolutionProjectService.GetProjectProperty
+- uid: BlackBytesBox.Distributed.bbdist.Spectre
+  name: BlackBytesBox.Distributed.bbdist.Spectre
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.html
+  commentId: N:BlackBytesBox.Distributed.bbdist.Spectre
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre
+  nameWithType: BlackBytesBox.Distributed.bbdist.Spectre
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand`1
+  name: CancellableCommand<TSettings>
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand-1.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand`1
+  name.vb: CancellableCommand(Of TSettings)
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand<TSettings>
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand(Of TSettings)
+  nameWithType: CancellableCommand<TSettings>
+  nameWithType.vb: CancellableCommand(Of TSettings)
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand`1.Execute(Spectre.Console.Cli.CommandContext,`0)
+  name: Execute(CommandContext, TSettings)
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand-1.html#BlackBytesBox_Distributed_bbdist_Spectre_CancellableCommand_1_Execute_Spectre_Console_Cli_CommandContext__0_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand`1.Execute(Spectre.Console.Cli.CommandContext,`0)
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand<TSettings>.Execute(Spectre.Console.Cli.CommandContext, TSettings)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand(Of TSettings).Execute(Spectre.Console.Cli.CommandContext, TSettings)
+  nameWithType: CancellableCommand<TSettings>.Execute(CommandContext, TSettings)
+  nameWithType.vb: CancellableCommand(Of TSettings).Execute(CommandContext, TSettings)
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand`1.Execute*
+  name: Execute
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand-1.html#BlackBytesBox_Distributed_bbdist_Spectre_CancellableCommand_1_Execute_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand`1.Execute
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand<TSettings>.Execute
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand(Of TSettings).Execute
+  nameWithType: CancellableCommand<TSettings>.Execute
+  nameWithType.vb: CancellableCommand(Of TSettings).Execute
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand`1.ExecuteAsync(Spectre.Console.Cli.CommandContext,`0,System.Threading.CancellationToken)
+  name: ExecuteAsync(CommandContext, TSettings, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand-1.html#BlackBytesBox_Distributed_bbdist_Spectre_CancellableCommand_1_ExecuteAsync_Spectre_Console_Cli_CommandContext__0_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand`1.ExecuteAsync(Spectre.Console.Cli.CommandContext,`0,System.Threading.CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand<TSettings>.ExecuteAsync(Spectre.Console.Cli.CommandContext, TSettings, System.Threading.CancellationToken)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand(Of TSettings).ExecuteAsync(Spectre.Console.Cli.CommandContext, TSettings, System.Threading.CancellationToken)
+  nameWithType: CancellableCommand<TSettings>.ExecuteAsync(CommandContext, TSettings, CancellationToken)
+  nameWithType.vb: CancellableCommand(Of TSettings).ExecuteAsync(CommandContext, TSettings, CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand`1.ExecuteAsync*
+  name: ExecuteAsync
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand-1.html#BlackBytesBox_Distributed_bbdist_Spectre_CancellableCommand_1_ExecuteAsync_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand`1.ExecuteAsync
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand<TSettings>.ExecuteAsync
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.CancellableCommand(Of TSettings).ExecuteAsync
+  nameWithType: CancellableCommand<TSettings>.ExecuteAsync
+  nameWithType.vb: CancellableCommand(Of TSettings).ExecuteAsync
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService
+  name: CommandAppHostedService
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService
+  nameWithType: CommandAppHostedService
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.#ctor(Spectre.Console.Cli.CommandApp,Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService},Microsoft.Extensions.Hosting.IHostApplicationLifetime)
+  name: CommandAppHostedService(CommandApp, ILogger<CommandAppHostedService>, IHostApplicationLifetime)
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.html#BlackBytesBox_Distributed_bbdist_Spectre_CommandAppHostedService__ctor_Spectre_Console_Cli_CommandApp_Microsoft_Extensions_Logging_ILogger_BlackBytesBox_Distributed_bbdist_Spectre_CommandAppHostedService__Microsoft_Extensions_Hosting_IHostApplicationLifetime_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.#ctor(Spectre.Console.Cli.CommandApp,Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService},Microsoft.Extensions.Hosting.IHostApplicationLifetime)
+  name.vb: New(CommandApp, ILogger(Of CommandAppHostedService), IHostApplicationLifetime)
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.CommandAppHostedService(Spectre.Console.Cli.CommandApp, Microsoft.Extensions.Logging.ILogger<BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService>, Microsoft.Extensions.Hosting.IHostApplicationLifetime)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.New(Spectre.Console.Cli.CommandApp, Microsoft.Extensions.Logging.ILogger(Of BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService), Microsoft.Extensions.Hosting.IHostApplicationLifetime)
+  nameWithType: CommandAppHostedService.CommandAppHostedService(CommandApp, ILogger<CommandAppHostedService>, IHostApplicationLifetime)
+  nameWithType.vb: CommandAppHostedService.New(CommandApp, ILogger(Of CommandAppHostedService), IHostApplicationLifetime)
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.#ctor*
+  name: CommandAppHostedService
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.html#BlackBytesBox_Distributed_bbdist_Spectre_CommandAppHostedService__ctor_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.CommandAppHostedService
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.New
+  nameWithType: CommandAppHostedService.CommandAppHostedService
+  nameWithType.vb: CommandAppHostedService.New
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.CommandAppExitCode
+  name: CommandAppExitCode
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.html#BlackBytesBox_Distributed_bbdist_Spectre_CommandAppHostedService_CommandAppExitCode
+  commentId: P:BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.CommandAppExitCode
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.CommandAppExitCode
+  nameWithType: CommandAppHostedService.CommandAppExitCode
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.CommandAppExitCode*
+  name: CommandAppExitCode
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.html#BlackBytesBox_Distributed_bbdist_Spectre_CommandAppHostedService_CommandAppExitCode_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.CommandAppExitCode
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.CommandAppExitCode
+  nameWithType: CommandAppHostedService.CommandAppExitCode
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.CommandAppShutdownTokenSource
+  name: CommandAppShutdownTokenSource
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.html#BlackBytesBox_Distributed_bbdist_Spectre_CommandAppHostedService_CommandAppShutdownTokenSource
+  commentId: F:BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.CommandAppShutdownTokenSource
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.CommandAppShutdownTokenSource
+  nameWithType: CommandAppHostedService.CommandAppShutdownTokenSource
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.StartAsync(System.Threading.CancellationToken)
+  name: StartAsync(CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.html#BlackBytesBox_Distributed_bbdist_Spectre_CommandAppHostedService_StartAsync_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.StartAsync(System.Threading.CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.StartAsync(System.Threading.CancellationToken)
+  nameWithType: CommandAppHostedService.StartAsync(CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.StartAsync*
+  name: StartAsync
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.html#BlackBytesBox_Distributed_bbdist_Spectre_CommandAppHostedService_StartAsync_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.StartAsync
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.StartAsync
+  nameWithType: CommandAppHostedService.StartAsync
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.StopAsync(System.Threading.CancellationToken)
+  name: StopAsync(CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.html#BlackBytesBox_Distributed_bbdist_Spectre_CommandAppHostedService_StopAsync_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.StopAsync(System.Threading.CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.StopAsync(System.Threading.CancellationToken)
+  nameWithType: CommandAppHostedService.StopAsync(CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.StopAsync*
+  name: StopAsync
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.html#BlackBytesBox_Distributed_bbdist_Spectre_CommandAppHostedService_StopAsync_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.StopAsync
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.CommandAppHostedService.StopAsync
+  nameWithType: CommandAppHostedService.StopAsync
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult
+  name: MarkupResult
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult
+  nameWithType: MarkupResult
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.MessageTemplate
+  name: MessageTemplate
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.html#BlackBytesBox_Distributed_bbdist_Spectre_MarkupResult_MessageTemplate
+  commentId: P:BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.MessageTemplate
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.MessageTemplate
+  nameWithType: MarkupResult.MessageTemplate
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.MessageTemplate*
+  name: MessageTemplate
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.html#BlackBytesBox_Distributed_bbdist_Spectre_MarkupResult_MessageTemplate_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.MessageTemplate
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.MessageTemplate
+  nameWithType: MarkupResult.MessageTemplate
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.PropertyValues
+  name: PropertyValues
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.html#BlackBytesBox_Distributed_bbdist_Spectre_MarkupResult_PropertyValues
+  commentId: P:BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.PropertyValues
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.PropertyValues
+  nameWithType: MarkupResult.PropertyValues
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.PropertyValues*
+  name: PropertyValues
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.html#BlackBytesBox_Distributed_bbdist_Spectre_MarkupResult_PropertyValues_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.PropertyValues
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.MarkupResult.PropertyValues
+  nameWithType: MarkupResult.PropertyValues
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole
+  name: SpectreConsole
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole
+  nameWithType: SpectreConsole
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.WriteLine(System.String,System.Object[],System.Object[])
+  name: WriteLine(string, object?[], params object?[]?)
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.html#BlackBytesBox_Distributed_bbdist_Spectre_SpectreConsole_WriteLine_System_String_System_Object___System_Object___
+  commentId: M:BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.WriteLine(System.String,System.Object[],System.Object[])
+  name.vb: WriteLine(String, Object(), ParamArray Object())
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.WriteLine(string, object?[], params object?[]?)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.WriteLine(String, Object(), ParamArray Object())
+  nameWithType: SpectreConsole.WriteLine(string, object?[], params object?[]?)
+  nameWithType.vb: SpectreConsole.WriteLine(String, Object(), ParamArray Object())
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.WriteLine*
+  name: WriteLine
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.html#BlackBytesBox_Distributed_bbdist_Spectre_SpectreConsole_WriteLine_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.WriteLine
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.WriteLine
+  nameWithType: SpectreConsole.WriteLine
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.WriteTemplateAsync(System.String,System.Object[],System.Object[])
+  name: WriteTemplateAsync(string, object?[], params object?[]?)
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.html#BlackBytesBox_Distributed_bbdist_Spectre_SpectreConsole_WriteTemplateAsync_System_String_System_Object___System_Object___
+  commentId: M:BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.WriteTemplateAsync(System.String,System.Object[],System.Object[])
+  name.vb: WriteTemplateAsync(String, Object(), ParamArray Object())
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.WriteTemplateAsync(string, object?[], params object?[]?)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.WriteTemplateAsync(String, Object(), ParamArray Object())
+  nameWithType: SpectreConsole.WriteTemplateAsync(string, object?[], params object?[]?)
+  nameWithType.vb: SpectreConsole.WriteTemplateAsync(String, Object(), ParamArray Object())
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.WriteTemplateAsync*
+  name: WriteTemplateAsync
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.html#BlackBytesBox_Distributed_bbdist_Spectre_SpectreConsole_WriteTemplateAsync_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.WriteTemplateAsync
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.SpectreConsole.WriteTemplateAsync
+  nameWithType: SpectreConsole.WriteTemplateAsync
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar
+  name: TypeRegistrar
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar
+  nameWithType: TypeRegistrar
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.#ctor(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name: TypeRegistrar(IServiceCollection)
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeRegistrar__ctor_Microsoft_Extensions_DependencyInjection_IServiceCollection_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.#ctor(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  name.vb: New(IServiceCollection)
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.TypeRegistrar(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.New(Microsoft.Extensions.DependencyInjection.IServiceCollection)
+  nameWithType: TypeRegistrar.TypeRegistrar(IServiceCollection)
+  nameWithType.vb: TypeRegistrar.New(IServiceCollection)
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.#ctor*
+  name: TypeRegistrar
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeRegistrar__ctor_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.TypeRegistrar
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.New
+  nameWithType: TypeRegistrar.TypeRegistrar
+  nameWithType.vb: TypeRegistrar.New
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.Build
+  name: Build()
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeRegistrar_Build
+  commentId: M:BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.Build
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.Build()
+  nameWithType: TypeRegistrar.Build()
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.Build*
+  name: Build
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeRegistrar_Build_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.Build
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.Build
+  nameWithType: TypeRegistrar.Build
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.Register(System.Type,System.Type)
+  name: Register(Type, Type)
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeRegistrar_Register_System_Type_System_Type_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.Register(System.Type,System.Type)
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.Register(System.Type, System.Type)
+  nameWithType: TypeRegistrar.Register(Type, Type)
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.Register*
+  name: Register
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeRegistrar_Register_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.Register
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.Register
+  nameWithType: TypeRegistrar.Register
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.RegisterInstance(System.Type,System.Object)
+  name: RegisterInstance(Type, object)
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeRegistrar_RegisterInstance_System_Type_System_Object_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.RegisterInstance(System.Type,System.Object)
+  name.vb: RegisterInstance(Type, Object)
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.RegisterInstance(System.Type, object)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.RegisterInstance(System.Type, Object)
+  nameWithType: TypeRegistrar.RegisterInstance(Type, object)
+  nameWithType.vb: TypeRegistrar.RegisterInstance(Type, Object)
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.RegisterInstance*
+  name: RegisterInstance
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeRegistrar_RegisterInstance_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.RegisterInstance
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.RegisterInstance
+  nameWithType: TypeRegistrar.RegisterInstance
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.RegisterLazy(System.Type,System.Func{System.Object})
+  name: RegisterLazy(Type, Func<object>)
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeRegistrar_RegisterLazy_System_Type_System_Func_System_Object__
+  commentId: M:BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.RegisterLazy(System.Type,System.Func{System.Object})
+  name.vb: RegisterLazy(Type, Func(Of Object))
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.RegisterLazy(System.Type, System.Func<object>)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.RegisterLazy(System.Type, System.Func(Of Object))
+  nameWithType: TypeRegistrar.RegisterLazy(Type, Func<object>)
+  nameWithType.vb: TypeRegistrar.RegisterLazy(Type, Func(Of Object))
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.RegisterLazy*
+  name: RegisterLazy
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeRegistrar_RegisterLazy_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.RegisterLazy
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeRegistrar.RegisterLazy
+  nameWithType: TypeRegistrar.RegisterLazy
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver
+  name: TypeResolver
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver
+  nameWithType: TypeResolver
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.#ctor(System.IServiceProvider)
+  name: TypeResolver(IServiceProvider)
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeResolver__ctor_System_IServiceProvider_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.#ctor(System.IServiceProvider)
+  name.vb: New(IServiceProvider)
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.TypeResolver(System.IServiceProvider)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.New(System.IServiceProvider)
+  nameWithType: TypeResolver.TypeResolver(IServiceProvider)
+  nameWithType.vb: TypeResolver.New(IServiceProvider)
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.#ctor*
+  name: TypeResolver
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeResolver__ctor_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.TypeResolver
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.New
+  nameWithType: TypeResolver.TypeResolver
+  nameWithType.vb: TypeResolver.New
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.Dispose
+  name: Dispose()
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeResolver_Dispose
+  commentId: M:BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.Dispose
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.Dispose()
+  nameWithType: TypeResolver.Dispose()
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.Dispose*
+  name: Dispose
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeResolver_Dispose_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.Dispose
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.Dispose
+  nameWithType: TypeResolver.Dispose
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.Resolve(System.Type)
+  name: Resolve(Type?)
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeResolver_Resolve_System_Type_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.Resolve(System.Type)
+  name.vb: Resolve(Type)
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.Resolve(System.Type?)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.Resolve(System.Type)
+  nameWithType: TypeResolver.Resolve(Type?)
+  nameWithType.vb: TypeResolver.Resolve(Type)
+- uid: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.Resolve*
+  name: Resolve
+  href: api/BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.html#BlackBytesBox_Distributed_bbdist_Spectre_TypeResolver_Resolve_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.Resolve
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Spectre.TypeResolver.Resolve
+  nameWithType: TypeResolver.Resolve
+- uid: BlackBytesBox.Distributed.bbdist.Utility
+  name: BlackBytesBox.Distributed.bbdist.Utility
+  href: api/BlackBytesBox.Distributed.bbdist.Utility.html
+  commentId: N:BlackBytesBox.Distributed.bbdist.Utility
+  fullName: BlackBytesBox.Distributed.bbdist.Utility
+  nameWithType: BlackBytesBox.Distributed.bbdist.Utility
+- uid: BlackBytesBox.Distributed.bbdist.Utility.Utility
+  name: Utility
+  href: api/BlackBytesBox.Distributed.bbdist.Utility.Utility.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Utility.Utility
+  fullName: BlackBytesBox.Distributed.bbdist.Utility.Utility
+  nameWithType: Utility
+- uid: BlackBytesBox.Distributed.bbdist.Utility.Utility.MapDateTimeToUShorts(System.Nullable{System.DateTime})
+  name: MapDateTimeToUShorts(DateTime?)
+  href: api/BlackBytesBox.Distributed.bbdist.Utility.Utility.html#BlackBytesBox_Distributed_bbdist_Utility_Utility_MapDateTimeToUShorts_System_Nullable_System_DateTime__
+  commentId: M:BlackBytesBox.Distributed.bbdist.Utility.Utility.MapDateTimeToUShorts(System.Nullable{System.DateTime})
+  name.vb: MapDateTimeToUShorts(Date?)
+  fullName: BlackBytesBox.Distributed.bbdist.Utility.Utility.MapDateTimeToUShorts(System.DateTime?)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Utility.Utility.MapDateTimeToUShorts(Date?)
+  nameWithType: Utility.MapDateTimeToUShorts(DateTime?)
+  nameWithType.vb: Utility.MapDateTimeToUShorts(Date?)
+- uid: BlackBytesBox.Distributed.bbdist.Utility.Utility.MapDateTimeToUShorts*
+  name: MapDateTimeToUShorts
+  href: api/BlackBytesBox.Distributed.bbdist.Utility.Utility.html#BlackBytesBox_Distributed_bbdist_Utility_Utility_MapDateTimeToUShorts_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Utility.Utility.MapDateTimeToUShorts
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Utility.Utility.MapDateTimeToUShorts
+  nameWithType: Utility.MapDateTimeToUShorts
+- uid: BlackBytesBox.Distributed.bbdist.Utility.Utility.MapUShortsToDateTime(System.String,System.String)
+  name: MapUShortsToDateTime(string, string)
+  href: api/BlackBytesBox.Distributed.bbdist.Utility.Utility.html#BlackBytesBox_Distributed_bbdist_Utility_Utility_MapUShortsToDateTime_System_String_System_String_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Utility.Utility.MapUShortsToDateTime(System.String,System.String)
+  name.vb: MapUShortsToDateTime(String, String)
+  fullName: BlackBytesBox.Distributed.bbdist.Utility.Utility.MapUShortsToDateTime(string, string)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Utility.Utility.MapUShortsToDateTime(String, String)
+  nameWithType: Utility.MapUShortsToDateTime(string, string)
+  nameWithType.vb: Utility.MapUShortsToDateTime(String, String)
+- uid: BlackBytesBox.Distributed.bbdist.Utility.Utility.MapUShortsToDateTime*
+  name: MapUShortsToDateTime
+  href: api/BlackBytesBox.Distributed.bbdist.Utility.Utility.html#BlackBytesBox_Distributed_bbdist_Utility_Utility_MapUShortsToDateTime_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Utility.Utility.MapUShortsToDateTime
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Utility.Utility.MapUShortsToDateTime
+  nameWithType: Utility.MapUShortsToDateTime
