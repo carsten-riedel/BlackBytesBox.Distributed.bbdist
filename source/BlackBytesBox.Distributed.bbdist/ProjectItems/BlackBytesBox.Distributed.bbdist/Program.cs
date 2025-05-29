@@ -4,6 +4,7 @@ using BlackBytesBox.Distributed.bbdist.Commands;
 using BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions;
 using BlackBytesBox.Distributed.bbdist.Serilog;
 using BlackBytesBox.Distributed.bbdist.Services;
+using BlackBytesBox.Distributed.bbdist.Services.CommandsServices;
 using BlackBytesBox.Distributed.bbdist.Spectre;
 
 using Microsoft.Extensions.DependencyInjection;
@@ -39,6 +40,7 @@ namespace BlackBytesBox.Distributed.bbdist
                     // Register shared services.
                     services.AddSingleton<IOsVersionService, OsVersionService>();
                     services.AddSingleton<ISolutionProjectService, SolutionProjectService>();
+                    services.AddSingleton<IWhereCommandService, WhereCommandService>();
                 })
                 .AddCommandAppHostedService(config =>
                 {
@@ -47,6 +49,7 @@ namespace BlackBytesBox.Distributed.bbdist
                     config.AddCommand<VsCodeCommand>("vscode").WithDescription("Installs vscode.").WithExample(new[] { "vscode", "--loglevel verbose", "--forceSuccess true" }); ;
                     config.AddCommand<SlnCommand>("sln").WithDescription("Read solution information.").WithExample(new[] { "--solution", "--loglevel verbose", "--forceSuccess true" }); ;
                     config.AddCommand<CsProjCommand>("csproj").WithDescription("Retrieve project property information from a csproj file.").WithExample(new[] { "--location <file-path>", "--property <property-name>", "--loglevel verbose", "--forceSuccess true" });
+                    config.AddCommand<WhereCommand>("where").WithDescription("Find executables");
                 }, args).UseSerilog(Log.Logger).UseConsoleLifetime(e => { e.SuppressStatusMessages = true; })
                 ;
 
