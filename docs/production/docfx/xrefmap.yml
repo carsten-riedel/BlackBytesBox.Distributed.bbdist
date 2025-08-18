@@ -140,63 +140,6 @@ references:
   isSpec: "True"
   fullName: BlackBytesBox.Distributed.bbdist.Commands.CsProjCommand.Settings.Scope
   nameWithType: CsProjCommand.Settings.Scope
-- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2
-  name: DefaultAbortableCommand2
-  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.html
-  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2
-  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2
-  nameWithType: DefaultAbortableCommand2
-- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2})
-  name: DefaultAbortableCommand2(ILogger<DefaultAbortableCommand2>)
-  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.html#BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2__ctor_Microsoft_Extensions_Logging_ILogger_BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2__
-  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2})
-  name.vb: New(ILogger(Of DefaultAbortableCommand2))
-  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.DefaultAbortableCommand2(Microsoft.Extensions.Logging.ILogger<BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2>)
-  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.New(Microsoft.Extensions.Logging.ILogger(Of BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2))
-  nameWithType: DefaultAbortableCommand2.DefaultAbortableCommand2(ILogger<DefaultAbortableCommand2>)
-  nameWithType.vb: DefaultAbortableCommand2.New(ILogger(Of DefaultAbortableCommand2))
-- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.#ctor*
-  name: DefaultAbortableCommand2
-  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.html#BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2__ctor_
-  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.#ctor
-  isSpec: "True"
-  name.vb: New
-  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.DefaultAbortableCommand2
-  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.New
-  nameWithType: DefaultAbortableCommand2.DefaultAbortableCommand2
-  nameWithType.vb: DefaultAbortableCommand2.New
-- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings,System.Threading.CancellationToken)
-  name: ExecuteAsync(CommandContext, Settings, CancellationToken)
-  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.html#BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2_ExecuteAsync_Spectre_Console_Cli_CommandContext_BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2_Settings_System_Threading_CancellationToken_
-  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings,System.Threading.CancellationToken)
-  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.ExecuteAsync(Spectre.Console.Cli.CommandContext, BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings, System.Threading.CancellationToken)
-  nameWithType: DefaultAbortableCommand2.ExecuteAsync(CommandContext, DefaultAbortableCommand2.Settings, CancellationToken)
-- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.ExecuteAsync*
-  name: ExecuteAsync
-  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.html#BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2_ExecuteAsync_
-  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.ExecuteAsync
-  isSpec: "True"
-  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.ExecuteAsync
-  nameWithType: DefaultAbortableCommand2.ExecuteAsync
-- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings
-  name: DefaultAbortableCommand2.Settings
-  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.html
-  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings
-  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings
-  nameWithType: DefaultAbortableCommand2.Settings
-- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.Name
-  name: Name
-  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2_Settings_Name
-  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.Name
-  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.Name
-  nameWithType: DefaultAbortableCommand2.Settings.Name
-- uid: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.Name*
-  name: Name
-  href: api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_DefaultAbortableCommand2_Settings_Name_
-  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.Name
-  isSpec: "True"
-  fullName: BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.Name
-  nameWithType: DefaultAbortableCommand2.Settings.Name
 - uid: BlackBytesBox.Distributed.bbdist.Commands.DumpCommand
   name: DumpCommand
   href: api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.html
@@ -389,6 +332,115 @@ references:
   isSpec: "True"
   fullName: BlackBytesBox.Distributed.bbdist.Commands.SlnCommand.Settings.MinLogLevel
   nameWithType: SlnCommand.Settings.MinLogLevel
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand
+  name: TemplateCommand
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand
+  nameWithType: TemplateCommand
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand})
+  name: TemplateCommand(ILogger<TemplateCommand>)
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.html#BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand__ctor_Microsoft_Extensions_Logging_ILogger_BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand__
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand})
+  name.vb: New(ILogger(Of TemplateCommand))
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.TemplateCommand(Microsoft.Extensions.Logging.ILogger<BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand>)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.New(Microsoft.Extensions.Logging.ILogger(Of BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand))
+  nameWithType: TemplateCommand.TemplateCommand(ILogger<TemplateCommand>)
+  nameWithType.vb: TemplateCommand.New(ILogger(Of TemplateCommand))
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.#ctor*
+  name: TemplateCommand
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.html#BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand__ctor_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.TemplateCommand
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.New
+  nameWithType: TemplateCommand.TemplateCommand
+  nameWithType.vb: TemplateCommand.New
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings,System.Threading.CancellationToken)
+  name: ExecuteAsync(CommandContext, Settings, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.html#BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_ExecuteAsync_Spectre_Console_Cli_CommandContext_BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_Settings_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings,System.Threading.CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext, BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings, System.Threading.CancellationToken)
+  nameWithType: TemplateCommand.ExecuteAsync(CommandContext, TemplateCommand.Settings, CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.ExecuteAsync*
+  name: ExecuteAsync
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.html#BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_ExecuteAsync_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.ExecuteAsync
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.ExecuteAsync
+  nameWithType: TemplateCommand.ExecuteAsync
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings
+  name: TemplateCommand.Settings
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings
+  nameWithType: TemplateCommand.Settings
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.IgnoreErrors
+  name: IgnoreErrors
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_Settings_IgnoreErrors
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.IgnoreErrors
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.IgnoreErrors
+  nameWithType: TemplateCommand.Settings.IgnoreErrors
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.IgnoreErrors*
+  name: IgnoreErrors
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_Settings_IgnoreErrors_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.IgnoreErrors
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.IgnoreErrors
+  nameWithType: TemplateCommand.Settings.IgnoreErrors
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Input
+  name: Input
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_Settings_Input
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Input
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Input
+  nameWithType: TemplateCommand.Settings.Input
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Input*
+  name: Input
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_Settings_Input_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Input
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Input
+  nameWithType: TemplateCommand.Settings.Input
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.MinLogLevel
+  name: MinLogLevel
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_Settings_MinLogLevel
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.MinLogLevel
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.MinLogLevel
+  nameWithType: TemplateCommand.Settings.MinLogLevel
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.MinLogLevel*
+  name: MinLogLevel
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_Settings_MinLogLevel_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.MinLogLevel
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.MinLogLevel
+  nameWithType: TemplateCommand.Settings.MinLogLevel
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Name
+  name: Name
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_Settings_Name
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Name
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Name
+  nameWithType: TemplateCommand.Settings.Name
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Name*
+  name: Name
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_Settings_Name_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Name
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Name
+  nameWithType: TemplateCommand.Settings.Name
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Validate
+  name: Validate()
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_Settings_Validate
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Validate
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Validate()
+  nameWithType: TemplateCommand.Settings.Validate()
+- uid: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Validate*
+  name: Validate
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_TemplateCommand_Settings_Validate_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Validate
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.Validate
+  nameWithType: TemplateCommand.Settings.Validate
 - uid: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand
   name: VsCodeCommand
   href: api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.html
@@ -472,6 +524,128 @@ references:
   isSpec: "True"
   fullName: BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.LogEventLevel
   nameWithType: VsCodeCommand.Settings.LogEventLevel
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand
+  name: WhereCommand
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand
+  nameWithType: WhereCommand
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.WhereCommand},BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService)
+  name: WhereCommand(ILogger<WhereCommand>, IWhereCommandService)
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand__ctor_Microsoft_Extensions_Logging_ILogger_BlackBytesBox_Distributed_bbdist_Commands_WhereCommand__BlackBytesBox_Distributed_bbdist_Services_CommandsServices_IWhereCommandService_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Commands.WhereCommand},BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService)
+  name.vb: New(ILogger(Of WhereCommand), IWhereCommandService)
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.WhereCommand(Microsoft.Extensions.Logging.ILogger<BlackBytesBox.Distributed.bbdist.Commands.WhereCommand>, BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.New(Microsoft.Extensions.Logging.ILogger(Of BlackBytesBox.Distributed.bbdist.Commands.WhereCommand), BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService)
+  nameWithType: WhereCommand.WhereCommand(ILogger<WhereCommand>, IWhereCommandService)
+  nameWithType.vb: WhereCommand.New(ILogger(Of WhereCommand), IWhereCommandService)
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.#ctor*
+  name: WhereCommand
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand__ctor_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.WhereCommand
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.New
+  nameWithType: WhereCommand.WhereCommand
+  nameWithType.vb: WhereCommand.New
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings,System.Threading.CancellationToken)
+  name: ExecuteAsync(CommandContext, Settings, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand_ExecuteAsync_Spectre_Console_Cli_CommandContext_BlackBytesBox_Distributed_bbdist_Commands_WhereCommand_Settings_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext,BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings,System.Threading.CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.ExecuteAsync(Spectre.Console.Cli.CommandContext, BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings, System.Threading.CancellationToken)
+  nameWithType: WhereCommand.ExecuteAsync(CommandContext, WhereCommand.Settings, CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.ExecuteAsync*
+  name: ExecuteAsync
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand_ExecuteAsync_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.ExecuteAsync
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.ExecuteAsync
+  nameWithType: WhereCommand.ExecuteAsync
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings
+  name: WhereCommand.Settings
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings
+  nameWithType: WhereCommand.Settings
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Directories
+  name: Directories
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand_Settings_Directories
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Directories
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Directories
+  nameWithType: WhereCommand.Settings.Directories
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Directories*
+  name: Directories
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand_Settings_Directories_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Directories
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Directories
+  nameWithType: WhereCommand.Settings.Directories
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Filesnames
+  name: Filesnames
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand_Settings_Filesnames
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Filesnames
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Filesnames
+  nameWithType: WhereCommand.Settings.Filesnames
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Filesnames*
+  name: Filesnames
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand_Settings_Filesnames_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Filesnames
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Filesnames
+  nameWithType: WhereCommand.Settings.Filesnames
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Filter
+  name: Filter
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand_Settings_Filter
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Filter
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Filter
+  nameWithType: WhereCommand.Settings.Filter
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Filter*
+  name: Filter
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand_Settings_Filter_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Filter
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.Filter
+  nameWithType: WhereCommand.Settings.Filter
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.IgnoreErrors
+  name: IgnoreErrors
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand_Settings_IgnoreErrors
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.IgnoreErrors
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.IgnoreErrors
+  nameWithType: WhereCommand.Settings.IgnoreErrors
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.IgnoreErrors*
+  name: IgnoreErrors
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand_Settings_IgnoreErrors_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.IgnoreErrors
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.IgnoreErrors
+  nameWithType: WhereCommand.Settings.IgnoreErrors
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.MinLogLevel
+  name: MinLogLevel
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand_Settings_MinLogLevel
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.MinLogLevel
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.MinLogLevel
+  nameWithType: WhereCommand.Settings.MinLogLevel
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.MinLogLevel*
+  name: MinLogLevel
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand_Settings_MinLogLevel_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.MinLogLevel
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.MinLogLevel
+  nameWithType: WhereCommand.Settings.MinLogLevel
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.SkipDirectories
+  name: SkipDirectories
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand_Settings_SkipDirectories
+  commentId: P:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.SkipDirectories
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.SkipDirectories
+  nameWithType: WhereCommand.Settings.SkipDirectories
+- uid: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.SkipDirectories*
+  name: SkipDirectories
+  href: api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.html#BlackBytesBox_Distributed_bbdist_Commands_WhereCommand_Settings_SkipDirectories_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.SkipDirectories
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.SkipDirectories
+  nameWithType: WhereCommand.Settings.SkipDirectories
 - uid: BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions
   name: BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions
   href: api/BlackBytesBox.Distributed.bbdist.Extensions.SpectreHostExtensions.html
@@ -635,6 +809,252 @@ references:
   commentId: N:BlackBytesBox.Distributed.bbdist.Services
   fullName: BlackBytesBox.Distributed.bbdist.Services
   nameWithType: BlackBytesBox.Distributed.bbdist.Services
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices
+  name: BlackBytesBox.Distributed.bbdist.Services.CommandsServices
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.html
+  commentId: N:BlackBytesBox.Distributed.bbdist.Services.CommandsServices
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices
+  nameWithType: BlackBytesBox.Distributed.bbdist.Services.CommandsServices
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService
+  name: IWhereCommandService
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService
+  nameWithType: IWhereCommandService
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.FindFiles(System.String,System.String,System.String,BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType,System.Threading.CancellationToken)
+  name: FindFiles(string?, string?, string?, PeFileType, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_IWhereCommandService_FindFiles_System_String_System_String_System_String_BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_PeFileType_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.FindFiles(System.String,System.String,System.String,BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType,System.Threading.CancellationToken)
+  name.vb: FindFiles(String, String, String, PeFileType, CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.FindFiles(string?, string?, string?, BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType, System.Threading.CancellationToken)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.FindFiles(String, String, String, BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType, System.Threading.CancellationToken)
+  nameWithType: IWhereCommandService.FindFiles(string?, string?, string?, WhereCommandService.PeFileType, CancellationToken)
+  nameWithType.vb: IWhereCommandService.FindFiles(String, String, String, WhereCommandService.PeFileType, CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.FindFiles*
+  name: FindFiles
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_IWhereCommandService_FindFiles_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.FindFiles
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.FindFiles
+  nameWithType: IWhereCommandService.FindFiles
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync(System.Collections.Generic.List{BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch},System.Threading.CancellationToken)
+  name: GetFilesAndPeTypeFromDirectoriesAsync(List<DirFileMatch>, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_IWhereCommandService_GetFilesAndPeTypeFromDirectoriesAsync_System_Collections_Generic_List_BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_DirFileMatch__System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync(System.Collections.Generic.List{BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch},System.Threading.CancellationToken)
+  name.vb: GetFilesAndPeTypeFromDirectoriesAsync(List(Of DirFileMatch), CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync(System.Collections.Generic.List<BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch>, System.Threading.CancellationToken)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync(System.Collections.Generic.List(Of BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch), System.Threading.CancellationToken)
+  nameWithType: IWhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync(List<WhereCommandService.DirFileMatch>, CancellationToken)
+  nameWithType.vb: IWhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync(List(Of WhereCommandService.DirFileMatch), CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync*
+  name: GetFilesAndPeTypeFromDirectoriesAsync
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_IWhereCommandService_GetFilesAndPeTypeFromDirectoriesAsync_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync
+  nameWithType: IWhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService
+  name: WhereCommandService
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService
+  nameWithType: WhereCommandService
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService})
+  name: WhereCommandService(ILogger<WhereCommandService>)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService__ctor_Microsoft_Extensions_Logging_ILogger_BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService__
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.#ctor(Microsoft.Extensions.Logging.ILogger{BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService})
+  name.vb: New(ILogger(Of WhereCommandService))
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.WhereCommandService(Microsoft.Extensions.Logging.ILogger<BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService>)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.New(Microsoft.Extensions.Logging.ILogger(Of BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService))
+  nameWithType: WhereCommandService.WhereCommandService(ILogger<WhereCommandService>)
+  nameWithType.vb: WhereCommandService.New(ILogger(Of WhereCommandService))
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.#ctor*
+  name: WhereCommandService
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService__ctor_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.WhereCommandService
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.New
+  nameWithType: WhereCommandService.WhereCommandService
+  nameWithType.vb: WhereCommandService.New
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch
+  name: WhereCommandService.DirFileMatch
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch
+  nameWithType: WhereCommandService.DirFileMatch
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.#ctor(System.String,System.String)
+  name: DirFileMatch(string, string)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_DirFileMatch__ctor_System_String_System_String_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.#ctor(System.String,System.String)
+  name.vb: New(String, String)
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.DirFileMatch(string, string)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.New(String, String)
+  nameWithType: WhereCommandService.DirFileMatch.DirFileMatch(string, string)
+  nameWithType.vb: WhereCommandService.DirFileMatch.New(String, String)
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.#ctor*
+  name: DirFileMatch
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_DirFileMatch__ctor_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.DirFileMatch
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.New
+  nameWithType: WhereCommandService.DirFileMatch.DirFileMatch
+  nameWithType.vb: WhereCommandService.DirFileMatch.New
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.Directory
+  name: Directory
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_DirFileMatch_Directory
+  commentId: P:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.Directory
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.Directory
+  nameWithType: WhereCommandService.DirFileMatch.Directory
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.Directory*
+  name: Directory
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_DirFileMatch_Directory_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.Directory
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.Directory
+  nameWithType: WhereCommandService.DirFileMatch.Directory
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.FileName
+  name: FileName
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_DirFileMatch_FileName
+  commentId: P:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.FileName
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.FileName
+  nameWithType: WhereCommandService.DirFileMatch.FileName
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.FileName*
+  name: FileName
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_DirFileMatch_FileName_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.FileName
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.FileName
+  nameWithType: WhereCommandService.DirFileMatch.FileName
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch
+  name: WhereCommandService.DirFilePeTypeMatch
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch
+  nameWithType: WhereCommandService.DirFilePeTypeMatch
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.#ctor(System.String,System.String,BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType)
+  name: DirFilePeTypeMatch(string, string, PeFileType)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_DirFilePeTypeMatch__ctor_System_String_System_String_BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_PeFileType_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.#ctor(System.String,System.String,BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType)
+  name.vb: New(String, String, PeFileType)
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.DirFilePeTypeMatch(string, string, BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.New(String, String, BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType)
+  nameWithType: WhereCommandService.DirFilePeTypeMatch.DirFilePeTypeMatch(string, string, WhereCommandService.PeFileType)
+  nameWithType.vb: WhereCommandService.DirFilePeTypeMatch.New(String, String, WhereCommandService.PeFileType)
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.#ctor*
+  name: DirFilePeTypeMatch
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_DirFilePeTypeMatch__ctor_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.#ctor
+  isSpec: "True"
+  name.vb: New
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.DirFilePeTypeMatch
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.New
+  nameWithType: WhereCommandService.DirFilePeTypeMatch.DirFilePeTypeMatch
+  nameWithType.vb: WhereCommandService.DirFilePeTypeMatch.New
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.PeType
+  name: PeType
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_DirFilePeTypeMatch_PeType
+  commentId: P:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.PeType
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.PeType
+  nameWithType: WhereCommandService.DirFilePeTypeMatch.PeType
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.PeType*
+  name: PeType
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_DirFilePeTypeMatch_PeType_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.PeType
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.PeType
+  nameWithType: WhereCommandService.DirFilePeTypeMatch.PeType
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.FindFiles(System.String,System.String,System.String,BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType,System.Threading.CancellationToken)
+  name: FindFiles(string?, string?, string?, PeFileType, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_FindFiles_System_String_System_String_System_String_BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_PeFileType_System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.FindFiles(System.String,System.String,System.String,BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType,System.Threading.CancellationToken)
+  name.vb: FindFiles(String, String, String, PeFileType, CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.FindFiles(string?, string?, string?, BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType, System.Threading.CancellationToken)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.FindFiles(String, String, String, BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType, System.Threading.CancellationToken)
+  nameWithType: WhereCommandService.FindFiles(string?, string?, string?, WhereCommandService.PeFileType, CancellationToken)
+  nameWithType.vb: WhereCommandService.FindFiles(String, String, String, WhereCommandService.PeFileType, CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.FindFiles*
+  name: FindFiles
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_FindFiles_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.FindFiles
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.FindFiles
+  nameWithType: WhereCommandService.FindFiles
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync(System.Collections.Generic.List{BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch},System.Threading.CancellationToken)
+  name: GetFilesAndPeTypeFromDirectoriesAsync(List<DirFileMatch>, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_GetFilesAndPeTypeFromDirectoriesAsync_System_Collections_Generic_List_BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_DirFileMatch__System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync(System.Collections.Generic.List{BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch},System.Threading.CancellationToken)
+  name.vb: GetFilesAndPeTypeFromDirectoriesAsync(List(Of DirFileMatch), CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync(System.Collections.Generic.List<BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch>, System.Threading.CancellationToken)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync(System.Collections.Generic.List(Of BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch), System.Threading.CancellationToken)
+  nameWithType: WhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync(List<WhereCommandService.DirFileMatch>, CancellationToken)
+  nameWithType.vb: WhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync(List(Of WhereCommandService.DirFileMatch), CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync*
+  name: GetFilesAndPeTypeFromDirectoriesAsync
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_GetFilesAndPeTypeFromDirectoriesAsync_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync
+  nameWithType: WhereCommandService.GetFilesAndPeTypeFromDirectoriesAsync
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetFilesFromDirectoriesAsync(System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.Threading.CancellationToken)
+  name: GetFilesFromDirectoriesAsync(IEnumerable<string>, IEnumerable<string>, IEnumerable<string>?, CancellationToken)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_GetFilesFromDirectoriesAsync_System_Collections_Generic_IEnumerable_System_String__System_Collections_Generic_IEnumerable_System_String__System_Collections_Generic_IEnumerable_System_String__System_Threading_CancellationToken_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetFilesFromDirectoriesAsync(System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.Collections.Generic.IEnumerable{System.String},System.Threading.CancellationToken)
+  name.vb: GetFilesFromDirectoriesAsync(IEnumerable(Of String), IEnumerable(Of String), IEnumerable(Of String), CancellationToken)
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetFilesFromDirectoriesAsync(System.Collections.Generic.IEnumerable<string>, System.Collections.Generic.IEnumerable<string>, System.Collections.Generic.IEnumerable<string>?, System.Threading.CancellationToken)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetFilesFromDirectoriesAsync(System.Collections.Generic.IEnumerable(Of String), System.Collections.Generic.IEnumerable(Of String), System.Collections.Generic.IEnumerable(Of String), System.Threading.CancellationToken)
+  nameWithType: WhereCommandService.GetFilesFromDirectoriesAsync(IEnumerable<string>, IEnumerable<string>, IEnumerable<string>?, CancellationToken)
+  nameWithType.vb: WhereCommandService.GetFilesFromDirectoriesAsync(IEnumerable(Of String), IEnumerable(Of String), IEnumerable(Of String), CancellationToken)
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetFilesFromDirectoriesAsync*
+  name: GetFilesFromDirectoriesAsync
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_GetFilesFromDirectoriesAsync_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetFilesFromDirectoriesAsync
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetFilesFromDirectoriesAsync
+  nameWithType: WhereCommandService.GetFilesFromDirectoriesAsync
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetPeFileType(System.String)
+  name: GetPeFileType(string)
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_GetPeFileType_System_String_
+  commentId: M:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetPeFileType(System.String)
+  name.vb: GetPeFileType(String)
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetPeFileType(string)
+  fullName.vb: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetPeFileType(String)
+  nameWithType: WhereCommandService.GetPeFileType(string)
+  nameWithType.vb: WhereCommandService.GetPeFileType(String)
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetPeFileType*
+  name: GetPeFileType
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_GetPeFileType_
+  commentId: Overload:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetPeFileType
+  isSpec: "True"
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.GetPeFileType
+  nameWithType: WhereCommandService.GetPeFileType
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType
+  name: WhereCommandService.PeFileType
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType.html
+  commentId: T:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType
+  nameWithType: WhereCommandService.PeFileType
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType.None
+  name: None
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_PeFileType_None
+  commentId: F:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType.None
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType.None
+  nameWithType: WhereCommandService.PeFileType.None
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType.x32
+  name: x32
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_PeFileType_x32
+  commentId: F:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType.x32
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType.x32
+  nameWithType: WhereCommandService.PeFileType.x32
+- uid: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType.x64
+  name: x64
+  href: api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType.html#BlackBytesBox_Distributed_bbdist_Services_CommandsServices_WhereCommandService_PeFileType_x64
+  commentId: F:BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType.x64
+  fullName: BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType.x64
+  nameWithType: WhereCommandService.PeFileType.x64
 - uid: BlackBytesBox.Distributed.bbdist.Services.IOsVersionService
   name: IOsVersionService
   href: api/BlackBytesBox.Distributed.bbdist.Services.IOsVersionService.html

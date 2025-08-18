@@ -34,26 +34,6 @@
     },
     {
       "type": "ManagedReference",
-      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.Settings.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
-      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.yml",
-      "output": {
-        ".html": {
-          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.DefaultAbortableCommand2.html"
-        }
-      },
-      "version": ""
-    },
-    {
-      "type": "ManagedReference",
       "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.DumpCommand.Settings.yml",
       "output": {
         ".html": {
@@ -94,6 +74,26 @@
     },
     {
       "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.Settings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.TemplateCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
       "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.Settings.yml",
       "output": {
         ".html": {
@@ -108,6 +108,26 @@
       "output": {
         ".html": {
           "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.VsCodeCommand.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.Settings.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Commands.WhereCommand.html"
         }
       },
       "version": ""
@@ -188,6 +208,66 @@
       "output": {
         ".html": {
           "relative_path": "api/BlackBytesBox.Distributed.bbdist.Serilog.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.IWhereCommandService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFileMatch.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.DirFilePeTypeMatch.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.PeFileType.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.WhereCommandService.html"
+        }
+      },
+      "version": ""
+    },
+    {
+      "type": "ManagedReference",
+      "source_relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.yml",
+      "output": {
+        ".html": {
+          "relative_path": "api/BlackBytesBox.Distributed.bbdist.Services.CommandsServices.html"
         }
       },
       "version": ""
