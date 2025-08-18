@@ -5,6 +5,7 @@ using System.Threading;
 using System.Threading.Tasks;
 
 using Microsoft.Build.Construction;
+using Microsoft.Build.Evaluation;
 using Microsoft.Extensions.Logging;
 
 namespace BlackBytesBox.Distributed.bbdist.Services
@@ -47,6 +48,8 @@ namespace BlackBytesBox.Distributed.bbdist.Services
 
         public async Task<List<string>> GetCsProjAbsolutPathsFromSolutions(string solutionLocation, CancellationToken cancellationToken)
         {
+
+
             List<string> retval = new List<string>();
             try
             {
@@ -59,6 +62,17 @@ namespace BlackBytesBox.Distributed.bbdist.Services
                     try
                     {
                         ProjectRootElement projectRoot = ProjectRootElement.Open(item.AbsolutePath);
+                        
+
+                        var globalProperties = new Dictionary<string, string>
+                        {
+                            ["Configuration"] = "Debug",
+                            ["Platform"] = "AnyCPU",
+                            //["MSBuildRuntimeType"] = "Core"
+                        };
+
+                        var projectload = new Project(item.AbsolutePath, globalProperties, null);
+
                         projects.Add(projectRoot);
                     }
                     catch (Exception ex)

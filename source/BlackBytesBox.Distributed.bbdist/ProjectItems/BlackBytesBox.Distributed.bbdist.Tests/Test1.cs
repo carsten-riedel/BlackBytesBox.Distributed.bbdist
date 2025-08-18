@@ -1,10 +1,15 @@
-﻿using System.Runtime.Intrinsics.X86;
+﻿using System.Collections;
+using System.Runtime.Intrinsics.X86;
+
+
 
 using global::BlackBytesBox.Distributed.bbdist.Services;
+
 
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
 
 namespace BlackBytesBox.Distributed.bbdist.Tests
 {
@@ -16,7 +21,13 @@ namespace BlackBytesBox.Distributed.bbdist.Tests
         [AssemblyInitialize]
         public static void AssemblyInit(TestContext context)
         {
-            // This method is called once for the test assembly, before any tests are run.
+            // Create the manager and analyzer
+            //AnalyzerManager manager = new AnalyzerManager();
+            //IProjectAnalyzer analyzer = manager.GetProject(@"C:\dev\github.com\carsten-riedel\BlackBytesBox.Distributed.bbdist\source\BlackBytesBox.Distributed.bbdist\ProjectItems\BlackBytesBox.Distributed.bbdist\BlackBytesBox.Distributed.bbdist.csproj");
+            
+
+            // Now any ProjectRootElement.Open(...) or new Project(...) 
+            // will load both the correct 15.0 props AND resolve Microsoft.NET.Sdk
         }
 
         [AssemblyCleanup]

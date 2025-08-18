@@ -5,7 +5,7 @@
 		<LangVersion>latest</LangVersion>
 		<ImplicitUsings>enable</ImplicitUsings>
 		<Nullable>enable</Nullable>
-		<EnableMSTestRunner>true</EnableMSTestRunner>
+		<!--<EnableMSTestRunner>true</EnableMSTestRunner>-->
 
 		<VersionBuild>0</VersionBuild>
 		<VersionMajor>2</VersionMajor>
@@ -14,14 +14,16 @@
 		<AssemblyVersion>$(VersionBuild).$(VersionMajor).$(VersionMinor).$(VersionRevision)</AssemblyVersion>
 		<Version>$(VersionBuild).$(VersionMajor).$(VersionMinor).$(VersionRevision)$(VersionSuffix)</Version>
 
-
-		<!--
-		<EnableMSTestRunner>true</EnableMSTestRunner>
+		<!--<TestingPlatformDotnetTestSupport>true</TestingPlatformDotnetTestSupport>
+		<TestingPlatformShowTestsFailure>true</TestingPlatformShowTestsFailure>-->
+		
+		
+		<EnableMSTestRunner>false</EnableMSTestRunner>
 		<OutputType>Exe</OutputType>
 		 <TestingPlatformDotnetTestSupport>true</TestingPlatformDotnetTestSupport> 
 		 <TestingPlatformShowTestsFailure>true</TestingPlatformShowTestsFailure>
 		 <Exclude>[*]BlackBytesBox.Distributed.Commands.*</Exclude>
-		 -->
+		 
 
 		<OutputReportDir Condition="'$(OutputReportDirectory)' != ''">$(OutputReportDirectory)</OutputReportDir>
 		<OutputReportDir Condition="'$(OutputReportDirectory)' == ''">$(MSBuildThisFileDirectory)bin\Output\TestResults\$(AssemblyName)\</OutputReportDir>
@@ -31,6 +33,7 @@
 		<CoverletOutputFormat>opencover,json</CoverletOutputFormat>
 		<CoverletOutput>$(MSBuildThisFileDirectory)bin/CoverletOutput</CoverletOutput>
 		<Include>[*]BlackBytesBox.Distributed.bbdist.Services.*</Include>
+		
 		<VSTestLogger>trx%3bLogFileName=$(OutputReportDir)\ReportTestResult.trx;html%3bLogFileName=$(OutputReportDir)\ReportTestResult.html</VSTestLogger>
 		<!--
       Displays error on console in addition to the log file. Note that this feature comes with a performance impact.
@@ -47,8 +50,8 @@
 
 	<ItemGroup>
 		<PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.13.0" />
-		<PackageReference Include="MSTest.TestAdapter" Version="3.8.0" />
-		<PackageReference Include="MSTest.TestFramework" Version="3.8.0" />
+		<PackageReference Include="MSTest.TestAdapter" Version="3.9.3" />
+		<PackageReference Include="MSTest.TestFramework" Version="3.9.3" />
 		<PackageReference Include="coverlet.msbuild" Version="6.0.4">
 			<PrivateAssets>all</PrivateAssets>
 			<IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
@@ -78,8 +81,5 @@
 	  <ProjectReference Include="..\BlackBytesBox.Distributed.bbdist\BlackBytesBox.Distributed.bbdist.csproj" />
 	</ItemGroup>
 
-	<ItemGroup>
-		<Using Include="Microsoft.VisualStudio.TestTools.UnitTesting" />
-	</ItemGroup>
 
 </Project>

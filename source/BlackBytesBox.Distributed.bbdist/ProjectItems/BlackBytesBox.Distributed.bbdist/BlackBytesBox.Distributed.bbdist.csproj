@@ -106,9 +106,14 @@
 		<Move SourceFiles="@(PublishedExe)" DestinationFiles="$(PublishDir)$(NewExeName)" />
 	</Target>
 
+	<PropertyGroup>
+			<DisableMSBuildAssemblyCopyCheck>true</DisableMSBuildAssemblyCopyCheck>
+	</PropertyGroup>
 
 	<ItemGroup>
-		<PackageReference Include="Microsoft.Build" Version="17.3.2" />
+		<PackageReference Include="Microsoft.Build.Framework" Version="15.9.20" />
+		<PackageReference Include="Microsoft.Build.Utilities.Core" Version="15.9.20" />
+		<PackageReference Include="Microsoft.Build" Version="15.9.20" />
 		<PackageReference Include="Microsoft.Extensions.Hosting" Version="9.0.5" />
 		<PackageReference Include="Serilog" Version="4.2.0" />
 		<PackageReference Include="Serilog.Extensions.Hosting" Version="9.0.0" />
